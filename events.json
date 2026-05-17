@@ -1,0 +1,66 @@
+[
+  {
+    "id": "bopa-burmeister-1944",
+    "categories": ["ww2"],
+    "year": 1944,
+    "coordinates": [55.6698, 12.5994],
+    "title": {
+      "da": "BOPA-sabotage på Burmeister & Wain",
+      "en": "BOPA sabotage at Burmeister & Wain"
+    },
+    "description": {
+      "da": "Den 22. juni 1944 gennemførte sabotagegruppen BOPA et af besættelsestidens mest spektakulære angreb på skibsværftet Burmeister & Wain på Refshaleøen. Eksplosionerne ødelagde maskinhaller og forsinkede tysk krigsskibsproduktion betragteligt. Aktionen var en af de største industrielle sabotagehandlinger under den tyske besættelse af Danmark.",
+      "en": "On 22 June 1944, the sabotage group BOPA carried out one of the most spectacular attacks of the occupation at the Burmeister & Wain shipyard on Refshaleøen. The explosions destroyed machine halls and significantly delayed German warship production. The action was one of the largest industrial sabotage operations during the German occupation of Denmark."
+    },
+    "source": "Frihedsmuseet / The Museum of Danish Resistance",
+    "imageURL": null
+  },
+  {
+    "id": "rosenbaum-mord-1933",
+    "categories": ["murder"],
+    "year": 1933,
+    "coordinates": [55.6784, 12.5692],
+    "title": {
+      "da": "Rosenbaum-sagen",
+      "en": "The Rosenbaum Case"
+    },
+    "description": {
+      "da": "En af 1930'ernes mest omtalte mordssager i København. Sagen skabte massiv medieopmærksomhed og satte spørgsmålstegn ved politiets efterforskningsmetoder. Gerningsstedet på Nørreport-kvarteret blev et mørkt kapitel i byens kriminalhistorie.",
+      "en": "One of the most talked-about murder cases in 1930s Copenhagen. The case attracted massive media attention and raised questions about police investigative methods. The crime scene in the Nørreport quarter became a dark chapter in the city's criminal history."
+    },
+    "source": "Rigsarkivet",
+    "imageURL": null
+  },
+  {
+    "id": "synagoge-bombning-1985",
+    "categories": ["terror"],
+    "year": 1985,
+    "coordinates": [55.6820, 12.5739],
+    "title": {
+      "da": "Bombeangreb mod synagogen i Krystalgade",
+      "en": "Bombing of the synagogue in Krystalgade"
+    },
+    "description": {
+      "da": "Den 22. juli 1985 blev der kastet en håndgranat mod den jødiske synagoge i Krystalgade i det indre København. Attentatet skete samme nat som et angreb mod NordJyske Bank i Fredericia, og begge aktioner menes at have forbindelse til palæstinensiske terrorgrupper. Ingen blev dræbt, men angrebet rystede det jødiske samfund i Danmark.",
+      "en": "On 22 July 1985, a hand grenade was thrown at the Jewish synagogue in Krystalgade in central Copenhagen. The attack occurred the same night as an attack on NordJyske Bank in Fredericia, and both actions are believed to be connected to Palestinian terrorist groups. No one was killed, but the attack shook the Jewish community in Denmark."
+    },
+    "source": "Politiets Efterretningstjeneste / PET",
+    "imageURL": null
+  },
+  {
+    "id": "blekingegade-1988",
+    "categories": ["robbery", "terror"],
+    "year": 1988,
+    "coordinates": [55.6728, 12.5886],
+    "title": {
+      "da": "Blekingegadebanden",
+      "en": "The Blekingegade Gang"
+    },
+    "description": {
+      "da": "Fra en lejlighed i Blekingegade på Amager opererede en gruppe politiske aktivister i hemmelighed i over et årti. Gruppen begik en række væbnede røverier mod banker og posthuse for at finansiere palæstinensiske guerillabevægelser. I 1988 endte det i Danmarks hidtil mest dramatiske politijagt, da gruppen forsøgte et røveri mod den pantsrede pengetransport ved Købmagergade, hvor en politimand blev dræbt.",
+      "en": "From an apartment in Blekingegade on Amager, a group of political activists operated secretly for over a decade. The group committed a series of armed robberies against banks and post offices to fund Palestinian guerrilla movements. In 1988 it culminated in Denmark's most dramatic police chase at the time, when the group attempted a robbery of an armoured money transport near Købmagergade, in which a police officer was killed."
+    },
+    "source": "Blekingegadebanden — Jakob Kierkegaard (dokumentarfilm, 2009)",
+    "imageURL": null
+  }
+]
