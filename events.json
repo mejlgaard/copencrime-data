@@ -48,17 +48,33 @@
     "imageURL": null
   },
   {
-    "id": "blekingegade-1988",
+    "id": "blekingegade-lejlighed-1988",
     "categories": ["robbery", "terror"],
     "year": 1988,
-    "coordinates": [55.6728, 12.5886],
+    "coordinates": [55.6697, 12.5924],
     "title": {
-      "da": "Blekingegadebanden",
-      "en": "The Blekingegade Gang"
+      "da": "Blekingegadebandens skjulested",
+      "en": "The Blekingegade Gang's hideout"
     },
     "description": {
-      "da": "Fra en lejlighed i Blekingegade på Amager opererede en gruppe politiske aktivister i hemmelighed i over et årti. Gruppen begik en række væbnede røverier mod banker og posthuse for at finansiere palæstinensiske guerillabevægelser. I 1988 endte det i Danmarks hidtil mest dramatiske politijagt, da gruppen forsøgte et røveri mod den pantsrede pengetransport ved Købmagergade, hvor en politimand blev dræbt.",
-      "en": "From an apartment in Blekingegade on Amager, a group of political activists operated secretly for over a decade. The group committed a series of armed robberies against banks and post offices to fund Palestinian guerrilla movements. In 1988 it culminated in Denmark's most dramatic police chase at the time, when the group attempted a robbery of an armoured money transport near Købmagergade, in which a police officer was killed."
+      "da": "Fra en tilsyneladende helt almindelig lejlighed på Blekingegade 2 på Amager opererede en gruppe politiske aktivister i dybeste hemmelighed i over et årti. Gruppen, der kaldte sig Kommunistisk Arbejdskreds, begik en række væbnede røverier mod banker og posthuse for at finansiere palæstinensiske guerillabevægelser — herunder PFLP. Lejligheden fungerede som base for planlægning og opbevaring af udstyr.",
+      "en": "From an outwardly ordinary apartment at Blekingegade 2 on Amager, a group of political activists operated in deep secrecy for over a decade. The group, calling themselves the Communist Working Circle, committed a series of armed robberies against banks and post offices to fund Palestinian guerrilla movements — including the PFLP. The apartment served as a base for planning and storing equipment."
+    },
+    "source": "Blekingegadebanden — Jakob Kierkegaard (dokumentarfilm, 2009)",
+    "imageURL": null
+  },
+  {
+    "id": "blekingegade-roeveri-1988",
+    "categories": ["robbery", "terror"],
+    "year": 1988,
+    "coordinates": [55.6812, 12.5661],
+    "title": {
+      "da": "Blekingegadebandens sidste røveri",
+      "en": "The Blekingegade Gang's final robbery"
+    },
+    "description": {
+      "da": "Den 2. november 1988 forsøgte Blekingegadebanden at røve en pansret pengetransport ved Nørre Voldgade i det indre København. Under flugten blev politibetjent Jesper Duus Jensen skudt og dræbt. Det var Danmarks mest alvorlige røveridrab i nyere tid og udløste den største politiefterforskning i danmarkshistorien. Alle bandens medlemmer blev anholdt og idømt lange fængselsstraffe.",
+      "en": "On 2 November 1988, the Blekingegade Gang attempted to rob an armoured money transport at Nørre Voldgade in central Copenhagen. During the escape, police officer Jesper Duus Jensen was shot and killed. It was Denmark's most serious robbery-murder in modern times and triggered the largest police investigation in Danish history. All gang members were arrested and sentenced to long prison terms."
     },
     "source": "Blekingegadebanden — Jakob Kierkegaard (dokumentarfilm, 2009)",
     "imageURL": null
