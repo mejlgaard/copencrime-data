@@ -52,6 +52,7 @@
     "categories": ["robbery", "terror"],
     "year": 1988,
     "coordinates": [55.6697, 12.5924],
+    "relatedEventIds": ["blekingegade-roeveri-1988"],
     "title": {
       "da": "Blekingegadebandens skjulested",
       "en": "The Blekingegade Gang's hideout"
@@ -68,6 +69,7 @@
     "categories": ["robbery", "terror"],
     "year": 1988,
     "coordinates": [55.6812, 12.5661],
+    "relatedEventIds": ["blekingegade-lejlighed-1988"],
     "title": {
       "da": "Blekingegadebandens sidste røveri",
       "en": "The Blekingegade Gang's final robbery"
