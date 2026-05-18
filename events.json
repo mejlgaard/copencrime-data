@@ -217,11 +217,43 @@
     ]
   },
   {
+    "id": "sopromenaden-dobbeltdrab-1983",
+    "categories": ["murder", "gangs"],
+    "year": 1983,
+    "coordinates": [55.6957080, 12.5796030],
+    "relatedEventIds": ["agerlandsvej-makrellen-1984"],
+    "title": {
+      "da": "Dobbeltdrabet på Restaurant Søpromenaden",
+      "en": "The double murder at Restaurant Søpromenaden"
+    },
+    "description": {
+      "da": "Den 24. september 1983 kl. 03:15 gik tre Bullshit-rockere og en kvindelig bekendt ind på Restaurant Søpromenaden, Dag Hammerskjolds Allé 37 på Østerbro — et velkendt tilholdssted for Hells Angels. Barmanden ringede straks til Bent Svane Nielsen, kaldet Blondie, 25 år og Hells Angels-aktivist. Nielsen mødte op med tre medskyldige og gik til angreb med knive og flasker. Steen Grabow Grander (20 år) og Flemming Hald Jensen (21 år), begge Bullshit-rockere, blev dræbt på stedet. En tredje rocker, Michael Peter Enoch, overlevede alvorligt kvæstet. Kvinden slap uskadet. Baggrunden var en territorial aftale: Bullshit skulle holde sig på Amager, Hells Angels kontrollerede resten af København. At drikke på H.A.'s stamværtshus var en direkte provokation. Den 21. september 1984 blev Nielsen ved nævningeting i Østre Landsret idømt 16 års fængsel; Henrik Kruse Jensen fik 5 år og Hansi Hansen 4 år. Nielsen blev prøveløsladt i 1994. Obs: Restaurant Søpromenaden i dag (Sortedam Dossering 103) er et helt andet sted — den historiske restaurant eksisterer ikke længere.",
+      "en": "On 24 September 1983 at 03:15, three Bullshit rockers and a female acquaintance entered Restaurant Søpromenaden at Dag Hammerskjolds Allé 37 in Østerbro — a well-known Hells Angels gathering place. The bartender immediately called Bent Svane Nielsen, known as Blondie, a 25-year-old Hells Angels activist. Nielsen arrived with three accomplices and attacked with knives and bottles. Steen Grabow Grander (20) and Flemming Hald Jensen (21), both Bullshit members, were killed on the spot. A third rocker, Michael Peter Enoch, survived with serious injuries. The woman escaped unharmed. The background was a territorial agreement: Bullshit was to stay on Amager while Hells Angels controlled the rest of Copenhagen. Drinking at an H.A. pub was a direct provocation. On 21 September 1984, Nielsen was sentenced to 16 years by the Eastern High Court; Henrik Kruse Jensen received 5 years and Hansi Hansen 4 years. Nielsen was conditionally released in 1994. Note: the restaurant named Søpromenaden that exists today (Sortedam Dossering 103) is an entirely different venue — the original restaurant no longer exists."
+    },
+    "source": "Drabssager.dk · Wikipedia — Bent Svane Nielsen",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dag_Hammarskj%C3%B6lds_Alle_02.JPG",
+    "imageAttribution": {
+      "author": "Leif Jørgensen",
+      "license": "CC BY-SA 4.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Dag_Hammarskj%C3%B6lds_Alle_02.JPG"
+    },
+    "links": [
+      {
+        "title": { "da": "Drabssager.dk — Dobbeltdrab på Østerbro 1983", "en": "Drabssager.dk — Double murder on Østerbro 1983" },
+        "url": "https://drabssager.dk/record/fe4b8202-9ae5-4cfd-9e75-a1aac109fde4"
+      },
+      {
+        "title": { "da": "Wikipedia — Bent Svane Nielsen (Blondie)", "en": "Wikipedia — Bent Svane Nielsen (Blondie)" },
+        "url": "https://da.wikipedia.org/wiki/Bent_Svane_Nielsen"
+      }
+    ]
+  },
+  {
     "id": "agerlandsvej-makrellen-1984",
     "categories": ["murder", "gangs"],
     "year": 1984,
     "coordinates": [55.6408290, 12.5962940],
-    "relatedEventIds": ["titangade-hells-angels-1996"],
+    "relatedEventIds": ["sopromenaden-dobbeltdrab-1983", "titangade-hells-angels-1996"],
     "title": {
       "da": "Likvideringen af Makrellen på Agerlandsvej",
       "en": "The liquidation of Makrellen on Agerlandsvej"
