@@ -4,6 +4,7 @@
     "categories": ["ww2"],
     "year": 1944,
     "coordinates": [55.6822, 12.5725],
+    "relatedEventIds": ["bopa-burmeister-1944"],
     "title": {
       "da": "Likvideringen af Hestetyven på Rosengårdens Bodega",
       "en": "The liquidation of The Horse Thief at Rosengårdens Bodega"
@@ -130,6 +131,7 @@
     "categories": ["ww2"],
     "year": 1944,
     "coordinates": [55.6698, 12.5994],
+    "relatedEventIds": ["hestetyven-rosengarden-1944"],
     "title": {
       "da": "BOPA-sabotage på Burmeister & Wain",
       "en": "BOPA sabotage at Burmeister & Wain"
