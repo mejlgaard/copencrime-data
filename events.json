@@ -52,6 +52,40 @@
     "source": "Wikipedia — Shellhuset-angrebet / Operation Carthage",
     "imageURL": null,
     "imageAttribution": null,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Shellhuset_on_fire_2.jpg",
+        "attribution": {
+          "author": "Ukendt fotograf",
+          "license": "Public Domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Shellhuset_on_fire_2.jpg"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Shell-Huset-mosquito.jpg",
+        "attribution": {
+          "author": "Ukendt fotograf",
+          "license": "Public Domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Shell-Huset-mosquito.jpg"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Shellhuset_after_bombing_from_KB.jpg",
+        "attribution": {
+          "author": "Ukendt fotograf",
+          "license": "Public Domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Shellhuset_after_bombing_from_KB.jpg"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Shellhuset12.jpg",
+        "attribution": {
+          "author": "Ukendt fotograf",
+          "license": "Public Domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Shellhuset12.jpg"
+        }
+      }
+    ],
     "links": [
       {
         "title": { "da": "Wikipedia — Shellhuset-angrebet", "en": "Wikipedia — Operation Carthage" },
