@@ -218,7 +218,7 @@
   },
   {
     "id": "sopromenaden-dobbeltdrab-1983",
-    "categories": ["murder", "gangs"],
+    "categories": ["gangs", "murder"],
     "year": 1983,
     "coordinates": [55.6957080, 12.5796030],
     "relatedEventIds": ["agerlandsvej-makrellen-1984"],
@@ -250,7 +250,7 @@
   },
   {
     "id": "agerlandsvej-makrellen-1984",
-    "categories": ["murder", "gangs"],
+    "categories": ["gangs", "murder"],
     "year": 1984,
     "coordinates": [55.6408290, 12.5962940],
     "relatedEventIds": ["sopromenaden-dobbeltdrab-1983", "titangade-hells-angels-1996"],
@@ -282,7 +282,7 @@
   },
   {
     "id": "titangade-hells-angels-1996",
-    "categories": ["terror", "gangs"],
+    "categories": ["gangs", "murder"],
     "year": 1996,
     "coordinates": [55.7038, 12.5530],
     "relatedEventIds": ["agerlandsvej-makrellen-1984"],
