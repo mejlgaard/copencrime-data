@@ -281,11 +281,47 @@
     ]
   },
   {
+    "id": "lufthavnsdrabet-1996",
+    "categories": ["gangs", "murder"],
+    "year": 1996,
+    "coordinates": [55.6293, 12.6485],
+    "relatedEventIds": ["titangade-hells-angels-1996"],
+    "title": {
+      "da": "Lufthavnsdrabet — Hells Angels skyder Bandidos i Kastrup",
+      "en": "The Airport Murder — Hells Angels shoot Bandidos at Kastrup"
+    },
+    "description": {
+      "da": "Den 10. marts 1996 kl. 16:25 åbnede flere Hells Angels-rockere ild med pistoler og maskinpistoler mod en bil på parkeringspladsen foran Kastrup Lufthavn, hvor fire Bandidos-rockere sad. Mindst 37 skud blev affyret — politiet fandt 33 patronhylstre spredt over 150 meter. Uffe Lindenskov Larsen (32 år) blev ramt af syv skud i hjerte, lunger, hoved og ben og dræbt på stedet. Tre andre Bandidos-rockere blev alvorligt såret. Angrebet var planlagt fra Hells Angels' hovedkvarter på Titangade og var udløst af en eskalerende territorialkonflikt. Michael Brokside (23 år) blev den 20. december 1996 idømt 16 år. Jørgen »Fehår« Nielsen og to medgerningsmænd fik livsvarigt fængsel ved Højesteret i 1998. Lufthavnsdrabet regnes som startskuddet på Den Store Nordiske Rockerkrig — Bandidos svarede igen syv måneder senere med raketangrebet mod Titangade i oktober 1996.",
+      "en": "On 10 March 1996 at 16:25, several Hells Angels fired pistols and submachine guns at a car in the parking area outside Kastrup Airport, where four Bandidos members were sitting. At least 37 shots were fired — police found 33 shell casings spread across 150 metres. Uffe Lindenskov Larsen (32) was hit by seven shots to the heart, lungs, head and legs and killed on the spot. Three other Bandidos were seriously wounded. The attack had been planned at the Hells Angels' headquarters on Titangade and was triggered by an escalating territorial conflict. Michael Brokside (23) was sentenced to 16 years on 20 December 1996. Jørgen 'Fehår' Nielsen and two co-perpetrators received life sentences upheld by the Supreme Court in 1998. The airport murder is regarded as the opening shot of the Great Nordic Biker War — Bandidos responded seven months later with the rocket attack on Titangade in October 1996."
+    },
+    "source": "Wikipedia — Michael Brokside · TV 2: 1998-rocker dømt for lufthavnsdrab",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Copenhagen_Airport_pano_between_terminals_2_and_3.jpg",
+    "imageAttribution": {
+      "author": "Dicklyon",
+      "license": "CC BY-SA 4.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Copenhagen_Airport_pano_between_terminals_2_and_3.jpg"
+    },
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Michael Brokside", "en": "Wikipedia — Michael Brokside" },
+        "url": "https://da.wikipedia.org/wiki/Michael_Brokside"
+      },
+      {
+        "title": { "da": "DR: Den store rockerkrig — Drabet i lufthavnen", "en": "DR: The great biker war — The airport murder" },
+        "url": "https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen/djaevlen-i-detaljen-2021/den-store-rockerkrig-1-3-drabet-i-lufthavnen-16122111627"
+      },
+      {
+        "title": { "da": "Politimuseet — Da Norden eksploderede", "en": "The Police Museum — When the North exploded" },
+        "url": "https://politi.dk/om-politiet/politimuseet/da-norden-eksploderede"
+      }
+    ]
+  },
+  {
     "id": "titangade-hells-angels-1996",
     "categories": ["gangs", "murder"],
     "year": 1996,
     "coordinates": [55.7038, 12.5530],
-    "relatedEventIds": ["agerlandsvej-makrellen-1984"],
+    "relatedEventIds": ["lufthavnsdrabet-1996", "agerlandsvej-makrellen-1984"],
     "title": {
       "da": "Raketten mod Hells Angels' Titangade-klubhus",
       "en": "The rocket attack on the Hells Angels' Titangade clubhouse"
