@@ -99,8 +99,12 @@
       "en": "On 10 September 2010 at 13:23, a homemade bomb exploded in a toilet at Hotel Jørgensen, Rømersgade 11 in Copenhagen. The 24-year-old Chechen-Belgian man Lors Doukaiev was staying at the hotel under a false name and was assembling a TATP bomb packed with steel ball bearings — designed as a letter bomb targeting the newspaper Jyllands-Posten in Aarhus, which had published the Muhammad cartoons in 2005. The bomb detonated accidentally during assembly. Only Doukaiev himself was injured. A loaded pistol was found in his room."
     },
     "source": "Wikipedia — Eksplosionen på Hotel Jørgensen",
-    "imageURL": null,
-    "imageAttribution": null
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hotel_J%C3%B8rgensen.jpg/800px-Hotel_J%C3%B8rgensen.jpg",
+    "imageAttribution": {
+      "author": "Leif Jørgensen (Dannebrog Spy)",
+      "license": "CC BY-SA 4.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Hotel_J%C3%B8rgensen.jpg"
+    }
   },
   {
     "id": "orstedsparken-anholdelse-2010",
@@ -117,8 +121,12 @@
       "en": "After the bomb accidentally exploded in his hotel room, Lors Doukaiev fled into the nearby Ørstedsparken. At 15:38 — just over two hours after the explosion — he was arrested by police in the park. Doukaiev had previously lost a leg and was known in the press as 'the one-legged terrorist'. In 2011 he was sentenced to 12 years in prison for attempted terrorism and was extradited to Belgium in 2013. Hotel Jørgensen closed in 2020."
     },
     "source": "Wikipedia — Eksplosionen på Hotel Jørgensen",
-    "imageURL": null,
-    "imageAttribution": null
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%C3%98rstedsparken_sommer_1.jpg/800px-%C3%98rstedsparken_sommer_1.jpg",
+    "imageAttribution": {
+      "author": "Thue",
+      "license": "Public Domain",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:%C3%98rstedsparken_sommer_1.jpg"
+    }
   },
   {
     "id": "blekingegade-roeveri-1988",
