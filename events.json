@@ -221,7 +221,7 @@
     "categories": ["gangs", "murder"],
     "year": 1983,
     "coordinates": [55.69571, 12.57952],
-    "relatedEventIds": ["agerlandsvej-makrellen-1984"],
+    "relatedEventIds": ["agerlandsvej-makrellen-1984", "niels-aage-albret-1987"],
     "title": {
       "da": "Dobbeltdrabet på Restaurant Søpromenaden",
       "en": "The double murder at Restaurant Søpromenaden"
@@ -253,7 +253,7 @@
     "categories": ["gangs", "murder"],
     "year": 1984,
     "coordinates": [55.6408290, 12.5962940],
-    "relatedEventIds": ["sopromenaden-dobbeltdrab-1983", "titangade-hells-angels-1996"],
+    "relatedEventIds": ["sopromenaden-dobbeltdrab-1983", "niels-aage-albret-1987", "titangade-hells-angels-1996"],
     "title": {
       "da": "Likvideringen af Makrellen på Agerlandsvej",
       "en": "The liquidation of Makrellen on Agerlandsvej"
@@ -285,7 +285,7 @@
     "categories": ["gangs", "murder"],
     "year": 1996,
     "coordinates": [55.6293, 12.6485],
-    "relatedEventIds": ["titangade-hells-angels-1996"],
+    "relatedEventIds": ["titangade-hells-angels-1996", "claus-bork-hansen-2001"],
     "title": {
       "da": "Lufthavnsdrabet — Hells Angels skyder Bandidos i Kastrup",
       "en": "The Airport Murder — Hells Angels shoot Bandidos at Kastrup"
@@ -321,7 +321,7 @@
     "categories": ["gangs", "murder"],
     "year": 1996,
     "coordinates": [55.7038, 12.5530],
-    "relatedEventIds": ["lufthavnsdrabet-1996", "agerlandsvej-makrellen-1984"],
+    "relatedEventIds": ["lufthavnsdrabet-1996", "agerlandsvej-makrellen-1984", "claus-bork-hansen-2001"],
     "title": {
       "da": "Raketten mod Hells Angels' Titangade-klubhus",
       "en": "The rocket attack on the Hells Angels' Titangade clubhouse"
@@ -345,6 +345,94 @@
       {
         "title": { "da": "Wikipedia — Den Store Nordiske Rockerkrig", "en": "Wikipedia — Great Nordic Biker War" },
         "url": "https://da.wikipedia.org/wiki/Den_Store_Nordiske_Rockerkrig"
+      }
+    ]
+  },
+  {
+    "id": "niels-aage-albret-1987",
+    "categories": ["gangs", "murder"],
+    "year": 1987,
+    "coordinates": [55.6741, 12.6033],
+    "relatedEventIds": ["sopromenaden-dobbeltdrab-1983", "agerlandsvej-makrellen-1984"],
+    "title": {
+      "da": "Liget i betonGulvet — Bullshit på Christiania",
+      "en": "The body in the concrete floor — Bullshit at Christiania"
+    },
+    "description": {
+      "da": "Den 27. januar 1987 skød Peter »Panik« Espensen den 28-årige SAS-portør Niels-Aage Albret på Bullshits klubhus, Kirkegårdsvej 7 på Amager — han var mistænkt for at være politiinformant. Liget blev herefter transporteret til Bullshits værksted i Multihuset på Christiania og støbt ind i cementgulvet. 252 dage senere, den 6. oktober 1987, blev liget opdaget af christianitter. Reaktionen var øjeblikkelig: christianitterne malede »Befriet område« på Bullshits fæstning i Multihuset, opstillede vagtposter ved alle udgange og tvang i løbet af kort tid alle Bullshit-rockere ud af fristadet for altid. Peter Espensen idømtes 12 år i Østre Landsret i 1988, skærpet til 14 år af Højesteret. Bemærk: Sagen omtales i populærkulturen undertiden under andre navne.",
+      "en": "On 27 January 1987, Peter 'Panik' Espensen shot 28-year-old SAS porter Niels-Aage Albret at the Bullshit clubhouse at Kirkegårdsvej 7 on Amager — he was suspected of being a police informant. The body was then transported to Bullshit's workshop in Multihuset at Christiania and cast into the concrete floor. 252 days later, on 6 October 1987, the body was discovered by Christiania residents. The reaction was immediate: Christianites painted 'Liberated Area' on Bullshit's stronghold in Multihuset, stationed guards at all exits, and within a short time forced all Bullshit rockers out of the free city permanently. Peter Espensen was sentenced to 12 years by the Eastern High Court in 1988, increased to 14 years by the Supreme Court. Note: the case is sometimes referenced under other names in popular culture."
+    },
+    "source": "Drabssager.dk — Peter Espensen idømt fængsel for drab på Niels Albret i 1987",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/19/Christiania_2019.jpg",
+    "imageAttribution": {
+      "author": "Núria",
+      "license": "CC0 1.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Christiania_2019.jpg"
+    },
+    "links": [
+      {
+        "title": { "da": "Drabssager.dk — Peter Espensen / Niels-Aage Albret", "en": "Drabssager.dk — Peter Espensen / Niels-Aage Albret" },
+        "url": "https://drabssager.dk/record/6195e905-6bec-4ff4-a306-8db1ebb682de"
+      },
+      {
+        "title": { "da": "Wikipedia — Bullshit (bande)", "en": "Wikipedia — Bullshit MC" },
+        "url": "https://da.wikipedia.org/wiki/Bullshit_(bande)"
+      }
+    ]
+  },
+  {
+    "id": "claus-bork-hansen-2001",
+    "categories": ["gangs", "murder"],
+    "year": 2001,
+    "coordinates": [55.6913, 12.5120],
+    "relatedEventIds": ["lufthavnsdrabet-1996", "titangade-hells-angels-1996", "trippeldrabet-frederiksberg-2015"],
+    "title": {
+      "da": "Likvideringen af Karate-Claus på A.F. Beyersvej",
+      "en": "The liquidation of Karate-Claus on A.F. Beyersvej"
+    },
+    "description": {
+      "da": "Den 21. marts 2001 blev Claus Barrit Bork Hansen (37 år), kaldet »Karate-Claus«, skudt og dræbt med 26 skud på A.F. Beyersvej i Vanløse, da han vendte hjem fra en restaurantbesøg med sin kæreste. Hansen havde været en af Bandidos' mest magtfulde skikkelser — Sergeant-at-Arms og Jim Tinndahns livvagt under Den Store Nordiske Rockerkrig — men var siden blevet smidt ud af Bandidos og omdannet sit Hedehusene-kapitel til støtteklub for Hells Angels. Politiet havde to gange advaret ham om at han stod på Bandidos' dødsliste, men han afviste beskyttelse. Den 41-årige Jens Christian Thorup idømtes livsvarigt fængsel den 12. april 2002 ved Østre Landsret — dommen blev i januar 2003 nedsat til 16 år.",
+      "en": "On 21 March 2001, Claus Barrit Bork Hansen (37), known as 'Karate-Claus', was shot and killed with 26 shots on A.F. Beyersvej in Vanløse as he returned home from a restaurant visit with his girlfriend. Hansen had been one of Bandidos' most powerful figures — Sergeant-at-Arms and bodyguard to Jim Tinndahn during the Great Nordic Biker War — but had since been expelled from Bandidos and converted his Hedehusene chapter into a Hells Angels support club. Police had warned him twice that he was on Bandidos' death list, but he refused protection. Jens Christian Thorup (41) was sentenced to life imprisonment on 12 April 2002 by the Eastern High Court — the sentence was reduced to 16 years in January 2003."
+    },
+    "source": "Wikipedia — Drabet på Claus Bork Hansen",
+    "imageURL": null,
+    "imageAttribution": null,
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Drabet på Claus Bork Hansen", "en": "Wikipedia — The murder of Claus Bork Hansen" },
+        "url": "https://da.wikipedia.org/wiki/Drabet_p%C3%A5_Claus_Bork_Hansen"
+      },
+      {
+        "title": { "da": "Bogen: Abemanden — Mordet på Karate-Claus (Mads Brügger)", "en": "Book: Abemanden — Murder of Karate-Claus (Mads Brügger)" },
+        "url": "https://peoplespress.dk/boger/abemanden/"
+      }
+    ]
+  },
+  {
+    "id": "trippeldrabet-frederiksberg-2015",
+    "categories": ["gangs", "murder"],
+    "year": 2015,
+    "coordinates": [55.6816, 12.4974],
+    "relatedEventIds": ["claus-bork-hansen-2001"],
+    "title": {
+      "da": "Trippeldrabet på Frederiksberg — tre mænd skudt i søvne",
+      "en": "The Frederiksberg triple murder — three men shot in their sleep"
+    },
+    "description": {
+      "da": "Natten til den 11. november 2015 kravlede gerningsmændene ad stilladserne op til en lejlighed på Christian Paulsens Vej 26 på Frederiksberg og ind gennem et køkkenvindue. Inde lå Mike Patrick Vinther (24), Phillip F.L. Rasmussen (19) og Suhaib Khalil Jaffar (23) og sov. Alle tre blev skudt med haglgevær og pistol. Ofrene tilhørte den Vanløse-baserede kriminelle gruppe »Holdet«, der var i konflikt med Bandidos. To uger inden drabet var Bandidos-medl Umar Asghar blevet knivstukket ved et møde med de tre ofre på taget af Rødovre Centrum. Den 34-årige Bandidos-rocker Ian Ramm Hansen idømtes livsvarigt fængsel — stadfæstet i landsretten i 2018. Benyamin Rahimi fik 12 år. Politiet opklarede sagen bl.a. via en Smith & Wesson .38 revolver, der var solgt dagen inden drabene.",
+      "en": "In the early hours of 11 November 2015, perpetrators climbed scaffolding to an apartment at Christian Paulsens Vej 26 in Frederiksberg and entered through a kitchen window. Inside, Mike Patrick Vinther (24), Phillip F.L. Rasmussen (19) and Suhaib Khalil Jaffar (23) lay sleeping. All three were shot with a shotgun and pistol. The victims belonged to the Vanløse-based criminal group 'Holdet', which was in conflict with Bandidos. Two weeks before the murder, Bandidos member Umar Asghar had been stabbed at a meeting with the three victims on the roof of Rødovre Centrum. 34-year-old Bandidos member Ian Ramm Hansen was sentenced to life imprisonment — upheld on appeal in 2018. Benyamin Rahimi received 12 years. Police cracked the case partly via a Smith & Wesson .38 revolver sold the day before the killings."
+    },
+    "source": "Wikipedia — Trippeldrabet på Frederiksberg · DR Nyheder",
+    "imageURL": null,
+    "imageAttribution": null,
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Trippeldrabet på Frederiksberg", "en": "Wikipedia — Triple murder at Frederiksberg" },
+        "url": "https://da.wikipedia.org/wiki/Trippeldrabet_p%C3%A5_Frederiksberg"
+      },
+      {
+        "title": { "da": "DR: Overblik — forstå sagen om trippeldrabet", "en": "DR: Overview — understanding the triple murder case" },
+        "url": "https://www.dr.dk/nyheder/indland/overblik-forstaa-sagen-om-trippeldrabet-paa-frederiksberg"
       }
     ]
   },
