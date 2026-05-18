@@ -1,5 +1,26 @@
 [
   {
+    "id": "henrettelsesskuret-1950",
+    "categories": ["ww2"],
+    "year": 1950,
+    "coordinates": [55.6799, 12.6136],
+    "title": {
+      "da": "Henrettelsesskuret — Danmarks sidste henrettelse",
+      "en": "The Execution Shed — Denmark's last execution"
+    },
+    "description": {
+      "da": "På Holmen, dybt inde i det der i dag er Christiania, ligger betonpladen der er alt der er tilbage af Henrettelsesskuret — et specielt bygget træskur med støbt gulv og afløbsrist, hvor 30 danskere blev skudt efter besættelsestidens retsopgør. Skuret var officielt tegnet som 'pistolskydeplads, skur til skiver' for at skjule dets egentlige formål. Den 20. juli 1950 kl. 01:00 blev Ib Birkedal Hansen skudt her — det var Danmarks foreløbigt sidste henrettelse. I alt 46 mennesker blev henrettet i retsopgøret: 30 her og 16 ved Undallslund nær Viborg. En replika af skuret blev opført i 1980.",
+      "en": "On Holmen, deep within what is now Christiania, lies the concrete slab that is all that remains of the Execution Shed — a purpose-built wooden structure with a cast floor and drainage grate where 30 Danes were shot following the post-war legal settlement. The shed was officially drawn up as a 'pistol range, shed for targets' to conceal its true purpose. On 20 July 1950 at 01:00, Ib Birkedal Hansen was shot here — Denmark's last execution to date. In total, 46 people were executed during the legal settlement: 30 here and 16 at Undallslund near Viborg. A replica of the shed was erected in 1980."
+    },
+    "source": "Wikipedia — Henrettelsesskuret",
+    "imageURL": "https://raw.githubusercontent.com/mejlgaard/copencrime-data/main/images/events/henrettelsesskuret-1950.jpg",
+    "imageAttribution": {
+      "author": "Kasper Mejlgaard",
+      "license": "© Alle rettigheder forbeholdes",
+      "sourceURL": null
+    }
+  },
+  {
     "id": "bopa-burmeister-1944",
     "categories": ["ww2"],
     "year": 1944,
