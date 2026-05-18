@@ -355,8 +355,8 @@
     "coordinates": [55.6741, 12.6033],
     "relatedEventIds": ["sopromenaden-dobbeltdrab-1983", "agerlandsvej-makrellen-1984"],
     "title": {
-      "da": "Liget i betonGulvet — Bullshit på Christiania",
-      "en": "The body in the concrete floor — Bullshit at Christiania"
+      "da": "Niels Albret drabet — liget i betongulvet på Christiania",
+      "en": "The Niels Albret murder — body in the concrete floor at Christiania"
     },
     "description": {
       "da": "Den 27. januar 1987 skød Peter »Panik« Espensen den 28-årige SAS-portør Niels-Aage Albret på Bullshits klubhus, Kirkegårdsvej 7 på Amager — han var mistænkt for at være politiinformant. Liget blev herefter transporteret til Bullshits værksted i Multihuset på Christiania og støbt ind i cementgulvet. 252 dage senere, den 6. oktober 1987, blev liget opdaget af christianitter. Reaktionen var øjeblikkelig: christianitterne malede »Befriet område« på Bullshits fæstning i Multihuset, opstillede vagtposter ved alle udgange og tvang i løbet af kort tid alle Bullshit-rockere ud af fristadet for altid. Peter Espensen idømtes 12 år i Østre Landsret i 1988, skærpet til 14 år af Højesteret. Bemærk: Sagen omtales i populærkulturen undertiden under andre navne.",
@@ -433,6 +433,37 @@
       {
         "title": { "da": "DR: Overblik — forstå sagen om trippeldrabet", "en": "DR: Overview — understanding the triple murder case" },
         "url": "https://www.dr.dk/nyheder/indland/overblik-forstaa-sagen-om-trippeldrabet-paa-frederiksberg"
+      }
+    ]
+  },
+  {
+    "id": "jaguar-taxa-torben-2005",
+    "categories": ["murder"],
+    "year": 2005,
+    "coordinates": [55.6866, 12.5861],
+    "title": {
+      "da": "Jaguaren — Taxa-Torbens parterede lig i Klerkegade",
+      "en": "Jaguar — Taxi driver Torben's dismembered body in Klerkegade"
+    },
+    "description": {
+      "da": "Natten til den 25. marts 2005 — påskenat — tog taxachauffør Torben Vagn Knudsen (41 år) hjem med to mænd han havde mødt på et værtshus: sudaneseren Ahmed Numan Isaac Rahma, kaldet »Jaguaren«, og den amerikanske backpacker Jared Heller, kaldet »Amerikaneren«. De købte øl og cigaretter i en 7-Eleven og kørte til Jaguarens lejlighed. Her stak Jaguaren Torben ihjel med flere knivstik i halsen. Liget blev derefter parteret. Lørdag morgen den 26. marts fandt en forbipasserende en arm og begge ben anbragt på en palle ved en mandskabsvogn i Klerkegade. Mandag den 28. marts fandt en hundeluftende torso og hoved — begge delt — i en kælderskakt på Adelgade 106, blot få meter fra Klerkegade. Jared Heller meldte sig selv til politiet den 7. april og forklarede at Jaguaren havde tvunget ham til at hjælpe med at bortskafe liget. Heller idømtes fire måneders fængsel for usømmelig omgang med lig og udvisning. Ahmed »Jaguaren« Rahma flygtede Danmark og efterlyses stadig internationalt via Interpol.",
+      "en": "In the early hours of 25 March 2005 — Easter Saturday night — taxi driver Torben Vagn Knudsen (41) went home with two men he had met at a pub: Sudanese national Ahmed Numan Isaac Rahma, known as 'Jaguar', and American backpacker Jared Heller, known as 'The American'. They bought beer and cigarettes at a 7-Eleven and went to Jaguar's apartment. There, Jaguar stabbed Torben to death with multiple knife wounds to the throat. The body was then dismembered. On Saturday morning, 26 March, a passer-by found an arm and both legs placed on a pallet beside a construction vehicle in Klerkegade. On Monday, 28 March, a dog walker found the torso and head — both split — in a basement shaft at Adelgade 106, just metres from Klerkegade. Jared Heller turned himself in on 7 April and explained that Jaguar had forced him to help dispose of the body. Heller was sentenced to four months for indecent handling of a corpse and deported. Ahmed 'Jaguar' Rahma fled Denmark and remains internationally wanted via Interpol."
+    },
+    "source": "Drabssager.dk — 41-årig taxachauffør myrdes i København",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Klerkegade_01.JPG",
+    "imageAttribution": {
+      "author": "Leif Jørgensen",
+      "license": "CC BY-SA 4.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Klerkegade_01.JPG"
+    },
+    "links": [
+      {
+        "title": { "da": "Drabssager.dk — Taxa-Torben / Jaguar", "en": "Drabssager.dk — Taxi Torben / Jaguar" },
+        "url": "https://drabssager.dk/case/77944"
+      },
+      {
+        "title": { "da": "TV 2: Politiet på sporet af Jaguar 11 år efter", "en": "TV 2: Police on Jaguar's trail 11 years later" },
+        "url": "https://nyheder.tv2.dk/krimi/2016-01-28-taxachauffoer-fundet-draebt-og-parteret-nu-er-politiet-paa-sporet-af-jaguar"
       }
     ]
   },
@@ -528,7 +559,7 @@
     "id": "blekingegade-roeveri-1988",
     "categories": ["robbery", "terror"],
     "year": 1988,
-    "coordinates": [55.6812, 12.5661],
+    "coordinates": [55.6825, 12.5713],
     "relatedEventIds": ["blekingegade-lejlighed-1988"],
     "title": {
       "da": "Blekingegadebandens sidste røveri",
