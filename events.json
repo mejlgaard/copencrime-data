@@ -217,6 +217,37 @@
     ]
   },
   {
+    "id": "titangade-hells-angels-1996",
+    "categories": ["terror"],
+    "year": 1996,
+    "coordinates": [55.7038, 12.5530],
+    "title": {
+      "da": "Raketten mod Hells Angels' Titangade-klubhus",
+      "en": "The rocket attack on the Hells Angels' Titangade clubhouse"
+    },
+    "description": {
+      "da": "Den 6. oktober 1996 kl. 03:05 affyrede en Bandidos-prospect en Carl Gustav-antitankraket mod Hells Angels' klubhus på Titangade 11 i Nørrebro, mens over 100 gæster var samlet til den årlige Vikingefest. Skytten affyrede raketten fra taget af en nærliggende cykelparkering, hen over politikøretøjer, der stod opstillet uden for bygningen. Raketten flød igennem bygningen uden at sprænge — tændmekanismen svigtede — men ilden og varmen fra dens fremdriftssystem omdannede det tætpakkede rum til en smelteovn. To mennesker omkom: Louis Linde Nielsen (38 år), H.A.-prospect, og Janne Krohn (29 år), en civil kvinde. 19 personer blev såret, herunder H.A. Danmarks nationale præsident Christian Sass Middelboe. Angrebet var et af de mest dramatiske episoder under Den Store Nordiske Rockerkrig (1995–1997) — en voldelig konflikt mellem Hells Angels og Bandidos om territorium i Skandinavien.",
+      "en": "On 6 October 1996 at 03:05, a Bandidos prospect fired a Carl Gustav anti-tank rocket at the Hells Angels' clubhouse at Titangade 11 in Nørrebro, while over 100 guests were gathered for the annual Viking Party. The shooter fired from the roof of an adjacent bicycle shelter, passing over police vehicles stationed outside the building. The rocket passed through the building without exploding — the detonator failed — but the heat from its propulsion system turned the packed room into a furnace. Two people died: Louis Linde Nielsen (38), an H.A. prospect, and Janne Krohn (29), a civilian woman. Nineteen were wounded, including H.A. Denmark national president Christian Sass Middelboe. The attack was one of the most dramatic episodes of the Great Nordic Biker War (1995–1997) — a violent conflict between Hells Angels and Bandidos over territory across Scandinavia."
+    },
+    "source": "Politimuseet — Da Norden eksploderede · Wikipedia — Den Store Nordiske Rockerkrig",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Titangade_02.jpg",
+    "imageAttribution": {
+      "author": "Leif Jørgensen",
+      "license": "CC BY-SA 4.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Titangade_02.jpg"
+    },
+    "links": [
+      {
+        "title": { "da": "Politimuseet — Da Norden eksploderede", "en": "The Police Museum — When the North exploded" },
+        "url": "https://politi.dk/om-politiet/politimuseet/da-norden-eksploderede"
+      },
+      {
+        "title": { "da": "Wikipedia — Den Store Nordiske Rockerkrig", "en": "Wikipedia — Great Nordic Biker War" },
+        "url": "https://da.wikipedia.org/wiki/Den_Store_Nordiske_Rockerkrig"
+      }
+    ]
+  },
+  {
     "id": "hotel-jorgensen-bombe-2010",
     "categories": ["terror"],
     "year": 2010,
