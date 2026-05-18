@@ -1,5 +1,40 @@
 [
   {
+    "id": "hestetyven-rosengarden-1944",
+    "categories": ["ww2"],
+    "year": 1944,
+    "coordinates": [55.6822, 12.5725],
+    "title": {
+      "da": "Likvideringen af Hestetyven på Rosengårdens Bodega",
+      "en": "The liquidation of The Horse Thief at Rosengårdens Bodega"
+    },
+    "description": {
+      "da": "Den 20. april 1944 kl. 17:05 — bevidst valgt som Hitlers fødselsdag — trådte to BOPA-modstandsfolk ind på Rosengårdens Bodega, Rosengården 11. De fulgte Christian Marius Rudolf Christiansen, kaldt 'Hestetyven', fra H.C. Ørstedsparken og affyrede skud mod ham ved bardisken. Hestetyven var i årevis gået under dække som kommunistisk agitator, mens han i virkeligheden stak folk an til det danske politis efterretningstjeneste og siden til det tyske Gestapo. Hans informationer førte direkte til arrestationen af kommunisternes MF Aksel Larsen og deportationen af talrige modstandsfolk til koncentrationslejre. Han forsøgte at trække sin egen pistol, men nåede det ikke. En kugle sidder stadig i væggen bag baren — og tradition byder at den vises frem til gæster der køber et shot.",
+      "en": "On 20 April 1944 at 17:05 — deliberately chosen as Hitler's birthday — two BOPA resistance members entered Rosengårdens Bodega at Rosengården 11. They had followed Christian Marius Rudolf Christiansen, known as 'The Horse Thief', from H.C. Ørstedsparken and fired at him at the bar counter. The Horse Thief had spent years posing as a communist agitator while in reality informing on members to the Danish police intelligence service and later to the German Gestapo. His information directly led to the arrest of communist MP Aksel Larsen and the deportation of numerous resistance members to concentration camps. He attempted to draw his own pistol but did not manage to. A bullet remains embedded in the wall behind the bar to this day — by tradition, guests who buy a shot may be shown the bullet hole."
+    },
+    "source": "hestetyven.dk · AmagerNyt · VICE Danmark",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Roseng%C3%A5rden_11_%28Copenhagen%29_01.jpg/960px-Roseng%C3%A5rden_11_%28Copenhagen%29_01.jpg",
+    "imageAttribution": {
+      "author": "Ramblersen2",
+      "license": "CC BY-SA 4.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Roseng%C3%A5rden_11_(Copenhagen)_01.jpg"
+    },
+    "links": [
+      {
+        "title": { "da": "Hestetyven — den fulde historie", "en": "The Horse Thief — the full story" },
+        "url": "https://hestetyven.dk"
+      },
+      {
+        "title": { "da": "VICE: Køb et shot og se skudhullerne", "en": "VICE: Buy a shot and see the bullet holes" },
+        "url": "https://www.vice.com/da/article/koeb-et-shot-og-se-skudhullerne-paa-denne-bodega-i-koebenhavn/"
+      },
+      {
+        "title": { "da": "Wikipedia — BOPA", "en": "Wikipedia — BOPA" },
+        "url": "https://da.wikipedia.org/wiki/BOPA"
+      }
+    ]
+  },
+  {
     "id": "shellhuset-bombing-1945",
     "categories": ["ww2"],
     "year": 1945,
