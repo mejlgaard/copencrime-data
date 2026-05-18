@@ -1,5 +1,104 @@
 [
   {
+    "id": "damhusmordet-1922",
+    "categories": ["murder", "historical"],
+    "year": 1922,
+    "coordinates": [55.6760, 12.4688],
+    "title": {
+      "da": "Damhusmordet — Danmarks første taxamord",
+      "en": "The Damhus Murder — Denmark's first taxi murder"
+    },
+    "description": {
+      "da": "Den 8. maj 1922 om morgenen fandt en gartnermedhjælper en taxa parkeret i markvejen ved Annexgårdsvej tæt på Damhussøen i Rødovre. I sædet sad chaufføren Carl Martinus Jensen — død. Han var ramt af tre revolverskud på tæt hold, og et projektil var trængt ind i hjernen og dræbt ham på stedet. Hans tegnebog var stjålet og fundet tom på den anden side af Roskildevej. Drabet var det første taxamord i dansk kriminalhistorie og vakte voldsom opsigt. Politiets mistanke rettede sig mod tre personer med tilknytning til værtshuset 'Den Fingerløse' på Åboulevarden: Mouritz Andersen, Karen Andersen (kaldet Musse Gadedreng) og Gudrun Olesen. Alle tre tilstod på et tidspunkt men trak siden udsagnene tilbage. I 1926 — fire år efter drabet — faldt dom: Mouritz og Karen Andersen blev dømt for meddelagtighed i drab og røveri og idømt henholdsvis 16 og 10 års straffearbejde. Det lykkedes dog aldrig at bevise, hvem der affyrede det dødelige skud, og Mouritz Andersen hævdede sin uskyld til sin død.",
+      "en": "On the morning of May 8, 1922, a gardener's assistant found a taxi parked in a field track beside Annexgårdsvej near Damhussøen in Rødovre. Behind the wheel sat taxi driver Carl Martinus Jensen — dead. He had been shot three times at close range with one bullet entering his brain. His wallet was stolen and found empty across Roskildevej. The killing was the first taxi murder in Danish criminal history and caused a public sensation. Police suspicion fell on three individuals connected to the tavern 'Den Fingerløse' on Åboulevarden: Mouritz Andersen, Karen Andersen (known as Musse Gadedreng), and Gudrun Olesen. All three confessed at different points but later retracted their statements. In 1926 — four years after the murder — verdicts were handed down: Mouritz and Karen Andersen were convicted of complicity in murder and robbery, sentenced to 16 and 10 years of hard labor respectively. Prosecutors could never prove who fired the fatal shot, and Mouritz Andersen maintained his innocence until his death."
+    },
+    "source": "Lex.dk — Damhusmordet · Rødovre Bibliotek",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Damhuss%C3%B8en.jpg",
+    "imageAttribution": {
+      "author": "Magsedal",
+      "license": "CC BY 3.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Damhuss%C3%B8en.jpg"
+    },
+    "links": [
+      {
+        "title": { "da": "Lex.dk — Damhusmordet", "en": "Lex.dk — The Damhus Murder" },
+        "url": "https://lex.dk/Damhusmordet"
+      },
+      {
+        "title": { "da": "Rødovre Bibliotek: Damhusmordet", "en": "Rødovre Library: The Damhus Murder" },
+        "url": "https://www.rdb.dk/articles/rodovre-arkiv/rodovres-historier/damhusmordet"
+      }
+    ]
+  },
+  {
+    "id": "stine-geisler-1990",
+    "categories": ["murder"],
+    "year": 1990,
+    "coordinates": [55.6801, 12.5715],
+    "relatedEventIds": ["kvindemordene-1989"],
+    "title": {
+      "da": "Karnevalsdrabet — mordet på Stine Geisler",
+      "en": "The Carnival Murder — the killing of Stine Geisler"
+    },
+    "description": {
+      "da": "Natten til den 5. juni 1990 deltog den 18-årige gymnasiepige Anne Stine Geisler i Pinsekarnevallet i Fælledparken på Østerbro. Efter kl. 02:30 cyklede hun hjemad mod sin lejlighed på Nørre Voldgade 20. Hun nåede aldrig frem. En ukendt gerningsmand angreb hende i gårdrummet ved Teglgårdsstræde 15 i Indre By og slæbte hende ned i kælderen under kroen Teglkroen. Her tvang han to viskestykker ned i hendes hals og bandt hende med elektrisk ledning — viskestykkerne tilstoppede luftvejene og kvalte hende. Efter hendes død skar gerningsmannen et mærke ind i hendes underarm og hældte knoglecerement over liget. Stines lig blev fundet om eftermiddagen den 5. juni af en køkkenmedarbejder. 35 politifolk og ca. 4.000 afhøringer bragte ingen overbevisende gerningsmand frem. Sagen er stadig uopklaret og betragtes som en af Danmarks mest gruopvækkende mordgåder. DNA er sikret fra gerningsstedet.",
+      "en": "On the night of June 5, 1990, 18-year-old high school student Anne Stine Geisler attended the Whitsun Carnival in Fælledparken in Østerbro. After 2:30 AM she cycled toward her apartment at Nørre Voldgade 20. She never arrived. An unknown assailant attacked her in the courtyard at Teglgårdsstræde 15 in the city centre and dragged her into the cellar beneath the tavern Teglkroen. There he forced two dish cloths down her throat and bound her with electrical wire, suffocating her. After her death the perpetrator carved a mark into her forearm and poured bone cement over the body. Her body was discovered the following afternoon by a kitchen worker. Thirty-five police officers and approximately 4,000 interviews yielded no conclusive suspect. The case remains unsolved and is considered one of the most disturbing unresolved murder mysteries in Danish history. DNA evidence has been secured from the crime scene."
+    },
+    "source": "Wikipedia DA — Drabet på Anne Stine Geisler · DR · SE og HØR",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/88/F%C3%A6lledparken_og_Parken_stadion_aerial.jpg",
+    "imageAttribution": {
+      "author": "Stig Nygaard",
+      "license": "CC BY 2.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:F%C3%A6lledparken_og_Parken_stadion_aerial.jpg"
+    },
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Drabet på Anne Stine Geisler", "en": "Wikipedia — Murder of Anne Stine Geisler" },
+        "url": "https://da.wikipedia.org/wiki/Drabet_p%C3%A5_Anne_Stine_Geisler"
+      },
+      {
+        "title": { "da": "DR: En sort periode i dansk politihistorie", "en": "DR: A dark period in Danish police history" },
+        "url": "https://www.dr.dk/historie/danmarkshistorien/en-sort-periode-i-dansk-politihistorie-uopklarede-kvindemord-skabte"
+      }
+    ]
+  },
+  {
+    "id": "kvindemordene-1989",
+    "categories": ["murder"],
+    "year": 1989,
+    "coordinates": [55.6310, 12.5180],
+    "relatedEventIds": ["stine-geisler-1990"],
+    "title": {
+      "da": "Kvindemordene — Amagermanden (1989–1990)",
+      "en": "The Women Murders — the Amager Man (1989–1990)"
+    },
+    "description": {
+      "da": "Fra december 1989 til august 1990 blev seks kvinder myrdet i Københavnsområdet på under et år. Mordene skabte panik i byen og betegnes som den mørkeste periode i Københavns Politis nyere historie. Ofrene var mellem 17 og 40 år: Marcela Guerro Mieres (17), Hanne With (23), Betina Christensen (22), Anne Stine Geisler (18), Anette Just Olesen (28) og Lene Buchardt Rasmussen (40). Det eneste opklarede mord er drabet på Lene Buchardt Rasmussen, der den 29. august 1990 cyklede ud til Fasanskoven på Kalvebod Fælled for at studere fugle. Hendes cykel — med fladt forhjul — blev fundet 25 meter inde i birkeskoven; liget lå 25 meter fra cyklen, gemt under grene. Hun var voldtaget og kvalt. DNA sikret i 1990 blev 20 år senere matchet til Marcel Lychau Hansen, kaldet Amagermanden. Den 22. december 2011 blev han idømt livstid for to mord og seks voldtægter. De øvrige fem mord er stadig uopklarede.",
+      "en": "From December 1989 to August 1990, six women were murdered in the Copenhagen area in less than a year — the darkest period in Copenhagen Police's modern history. Victims ranged from 17 to 40 years old: Marcela Guerro Mieres (17), Hanne With (23), Betina Christensen (22), Anne Stine Geisler (18), Anette Just Olesen (28) and Lene Buchardt Rasmussen (40). The only solved murder is that of Lene Buchardt Rasmussen, who cycled to Fasanskoven in Kalvebod Fælled on August 29, 1990, to watch birds. Her bicycle — with a flat front tyre — was found 25 metres into the birch forest; her body lay 25 metres further, hidden under branches. She had been raped and strangled. DNA secured at the scene in 1990 was matched 20 years later to Marcel Lychau Hansen, known as Amagermanden. On December 22, 2011, he was sentenced to life imprisonment for two murders and six rapes. The remaining five women's murders remain unsolved."
+    },
+    "source": "Wikipedia DA — Marcel Lychau Hansen · TV 2 · DR Danmarkshistorien",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Birch-forest-Amager-F%C3%A6lled1.jpg",
+    "imageAttribution": {
+      "author": "Sten Porse",
+      "license": "CC BY-SA 3.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Birch-forest-Amager-F%C3%A6lled1.jpg"
+    },
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Marcel Lychau Hansen (Amagermanden)", "en": "Wikipedia — Marcel Lychau Hansen" },
+        "url": "https://da.wikipedia.org/wiki/Marcel_Lychau_Hansen"
+      },
+      {
+        "title": { "da": "TV 2: Hele historien om Amagermanden", "en": "TV 2: The full story of the Amager Man" },
+        "url": "https://nyheder.tv2.dk/2017-01-29-hele-historien-saadan-kunne-amagermanden-voldtage-og-myrde-igen-og-igen"
+      },
+      {
+        "title": { "da": "DR: En sort periode i dansk politihistorie", "en": "DR: A dark period in Danish police history" },
+        "url": "https://www.dr.dk/historie/danmarkshistorien/en-sort-periode-i-dansk-politihistorie-uopklarede-kvindemord-skabte"
+      }
+    ]
+  },
+  {
     "id": "hestetyven-rosengarden-1944",
     "categories": ["ww2"],
     "year": 1944,
