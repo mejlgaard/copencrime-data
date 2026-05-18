@@ -1,9 +1,68 @@
 [
   {
+    "id": "northwest-orient-bombning-1985",
+    "categories": [
+      "terror"
+    ],
+    "year": 1985,
+    "coordinates": [
+      55.6757,
+      12.5616
+    ],
+    "relatedEventIds": [
+      "synagoge-bombning-1985",
+      "synagogen-terrorangreb-2015"
+    ],
+    "title": {
+      "da": "Bombeattentatet på Northwest Orient Airlines (1985)",
+      "en": "The Northwest Orient Airlines bombing (1985)"
+    },
+    "description": {
+      "da": "Den 22. juli 1985 kl. 10:27 eksploderede en bombe i en taske placeret på fortovet foran Northwest Orient Airlines' kontor i Imperialbygningen på Vester Farimagsgade 9 ved hjørnet af Ved Vesterport — få meter fra Vesterport Station. Northwest Orient var det eneste amerikanske flyselskab med kontor i København. Den 27-årige algeriske cyklist Rached Hamdi, der tilfældigvis passerede forbi, blev så alvorligt forbrændt at han døde den 11. august 1985 på Hvidovre Hospital. Yderligere 25 personer blev såret. Ti minutter efter sprang en anden bombe ved synagogen i Krystalgade, og en tredje — kraftigere — bombe beregnet til El Al's kontor på Vesterbrogade blev aldrig udløst; gerningsmanden kastede den i Nyhavns kanal. Bag attentatet stod fire palæstinensere — heriblandt Mohammed Abu Talb og Marten Imandi — tilknyttet Palestinian Popular Struggle Front (PPSF), der opererede fra Uppsala i Sverige. Den 21. december 1989 idømte en svensk ret Abu Talb og Imandi livsfængsel. Det var Danmarks første terrorangreb i moderne tid.",
+      "en": "On 22 July 1985 at 10:27 am, a bomb in a bag placed on the pavement exploded outside the Northwest Orient Airlines office in the Imperial building at Vester Farimagsgade 9, at the corner of Ved Vesterport near Vesterport Station. Northwest Orient was the only American airline with offices in Copenhagen. Algerian cyclist Rached Hamdi, 27, who happened to be passing, was so severely burned that he died on 11 August 1985 at Hvidovre Hospital. A further 25 people were injured. Ten minutes later a second bomb detonated at the synagogue in Krystalgade, and a third — far more powerful — device intended for El Al's office on Vesterbrogade was thrown into Nyhavn canal and never detonated. The attack was carried out by four Palestinians — including Mohammed Abu Talb and Marten Imandi — affiliated with the Palestinian Popular Struggle Front (PPSF), operating from Uppsala, Sweden. On 21 December 1989, a Swedish court sentenced Abu Talb and Imandi to life imprisonment. It was Denmark's first terrorist attack in modern times."
+    },
+    "source": "Wikipedia DA — Terrorangrebet den 22. juli 1985 · TV 2 · DR Danmarkshistorien",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Imperial_%28Copenhagen%29.jpg",
+    "imageAttribution": {
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Imperial_(Copenhagen).jpg"
+    },
+    "links": [
+      {
+        "title": {
+          "da": "Wikipedia — Terrorangrebet den 22. juli 1985",
+          "en": "Wikipedia — 1985 Copenhagen bombings"
+        },
+        "url": "https://da.wikipedia.org/wiki/Terrorangrebet_den_22._juli_1985"
+      },
+      {
+        "title": {
+          "da": "TV 2: 30 år siden terrorbomberne rystede København",
+          "en": "TV 2: 30 years since the terror bombs shook Copenhagen"
+        },
+        "url": "https://nyheder.tv2.dk/2015-07-22-30-aar-siden-terrorbomberne-der-rystede-koebenhavn"
+      },
+      {
+        "title": {
+          "da": "DR: Blodbad i smørhullet — Første terrorangreb i Danmark",
+          "en": "DR: Denmark's first terrorist attack"
+        },
+        "url": "https://www.dr.dk/historie/danmarkshistorien/blodbad-i-smoerhullet-det-foerste-terrorangreb-i-danmark"
+      }
+    ]
+  },
+  {
     "id": "damhusmordet-1922",
-    "categories": ["murder", "historical"],
+    "categories": [
+      "murder",
+      "historical"
+    ],
     "year": 1922,
-    "coordinates": [55.6760, 12.4688],
+    "coordinates": [
+      55.676,
+      12.4688
+    ],
     "title": {
       "da": "Damhusmordet — Danmarks første taxamord",
       "en": "The Damhus Murder — Denmark's first taxi murder"
@@ -21,21 +80,34 @@
     },
     "links": [
       {
-        "title": { "da": "Lex.dk — Damhusmordet", "en": "Lex.dk — The Damhus Murder" },
+        "title": {
+          "da": "Lex.dk — Damhusmordet",
+          "en": "Lex.dk — The Damhus Murder"
+        },
         "url": "https://lex.dk/Damhusmordet"
       },
       {
-        "title": { "da": "Rødovre Bibliotek: Damhusmordet", "en": "Rødovre Library: The Damhus Murder" },
+        "title": {
+          "da": "Rødovre Bibliotek: Damhusmordet",
+          "en": "Rødovre Library: The Damhus Murder"
+        },
         "url": "https://www.rdb.dk/articles/rodovre-arkiv/rodovres-historier/damhusmordet"
       }
     ]
   },
   {
     "id": "stine-geisler-1990",
-    "categories": ["murder"],
+    "categories": [
+      "murder"
+    ],
     "year": 1990,
-    "coordinates": [55.6801, 12.5715],
-    "relatedEventIds": ["kvindemordene-1989"],
+    "coordinates": [
+      55.6801,
+      12.5715
+    ],
+    "relatedEventIds": [
+      "kvindemordene-1989"
+    ],
     "title": {
       "da": "Karnevalsdrabet — mordet på Stine Geisler",
       "en": "The Carnival Murder — the killing of Stine Geisler"
@@ -53,21 +125,34 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — Drabet på Anne Stine Geisler", "en": "Wikipedia — Murder of Anne Stine Geisler" },
+        "title": {
+          "da": "Wikipedia — Drabet på Anne Stine Geisler",
+          "en": "Wikipedia — Murder of Anne Stine Geisler"
+        },
         "url": "https://da.wikipedia.org/wiki/Drabet_p%C3%A5_Anne_Stine_Geisler"
       },
       {
-        "title": { "da": "DR: En sort periode i dansk politihistorie", "en": "DR: A dark period in Danish police history" },
+        "title": {
+          "da": "DR: En sort periode i dansk politihistorie",
+          "en": "DR: A dark period in Danish police history"
+        },
         "url": "https://www.dr.dk/historie/danmarkshistorien/en-sort-periode-i-dansk-politihistorie-uopklarede-kvindemord-skabte"
       }
     ]
   },
   {
     "id": "kvindemordene-1989",
-    "categories": ["murder"],
+    "categories": [
+      "murder"
+    ],
     "year": 1989,
-    "coordinates": [55.6310, 12.5180],
-    "relatedEventIds": ["stine-geisler-1990"],
+    "coordinates": [
+      55.631,
+      12.518
+    ],
+    "relatedEventIds": [
+      "stine-geisler-1990"
+    ],
     "title": {
       "da": "Kvindemordene — Amagermanden (1989–1990)",
       "en": "The Women Murders — the Amager Man (1989–1990)"
@@ -85,25 +170,41 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — Marcel Lychau Hansen (Amagermanden)", "en": "Wikipedia — Marcel Lychau Hansen" },
+        "title": {
+          "da": "Wikipedia — Marcel Lychau Hansen (Amagermanden)",
+          "en": "Wikipedia — Marcel Lychau Hansen"
+        },
         "url": "https://da.wikipedia.org/wiki/Marcel_Lychau_Hansen"
       },
       {
-        "title": { "da": "TV 2: Hele historien om Amagermanden", "en": "TV 2: The full story of the Amager Man" },
+        "title": {
+          "da": "TV 2: Hele historien om Amagermanden",
+          "en": "TV 2: The full story of the Amager Man"
+        },
         "url": "https://nyheder.tv2.dk/2017-01-29-hele-historien-saadan-kunne-amagermanden-voldtage-og-myrde-igen-og-igen"
       },
       {
-        "title": { "da": "DR: En sort periode i dansk politihistorie", "en": "DR: A dark period in Danish police history" },
+        "title": {
+          "da": "DR: En sort periode i dansk politihistorie",
+          "en": "DR: A dark period in Danish police history"
+        },
         "url": "https://www.dr.dk/historie/danmarkshistorien/en-sort-periode-i-dansk-politihistorie-uopklarede-kvindemord-skabte"
       }
     ]
   },
   {
     "id": "hestetyven-rosengarden-1944",
-    "categories": ["ww2"],
+    "categories": [
+      "ww2"
+    ],
     "year": 1944,
-    "coordinates": [55.6822, 12.5725],
-    "relatedEventIds": ["bopa-burmeister-1944"],
+    "coordinates": [
+      55.6822,
+      12.5725
+    ],
+    "relatedEventIds": [
+      "bopa-burmeister-1944"
+    ],
     "title": {
       "da": "Likvideringen af Hestetyven på Rosengårdens Bodega",
       "en": "The liquidation of The Horse Thief at Rosengårdens Bodega"
@@ -121,25 +222,41 @@
     },
     "links": [
       {
-        "title": { "da": "Hestetyven — den fulde historie", "en": "The Horse Thief — the full story" },
+        "title": {
+          "da": "Hestetyven — den fulde historie",
+          "en": "The Horse Thief — the full story"
+        },
         "url": "https://hestetyven.dk"
       },
       {
-        "title": { "da": "VICE: Køb et shot og se skudhullerne", "en": "VICE: Buy a shot and see the bullet holes" },
+        "title": {
+          "da": "VICE: Køb et shot og se skudhullerne",
+          "en": "VICE: Buy a shot and see the bullet holes"
+        },
         "url": "https://www.vice.com/da/article/koeb-et-shot-og-se-skudhullerne-paa-denne-bodega-i-koebenhavn/"
       },
       {
-        "title": { "da": "Wikipedia — BOPA", "en": "Wikipedia — BOPA" },
+        "title": {
+          "da": "Wikipedia — BOPA",
+          "en": "Wikipedia — BOPA"
+        },
         "url": "https://da.wikipedia.org/wiki/BOPA"
       }
     ]
   },
   {
     "id": "shellhuset-bombing-1945",
-    "categories": ["ww2"],
+    "categories": [
+      "ww2"
+    ],
     "year": 1945,
-    "coordinates": [55.6752, 12.5641],
-    "relatedEventIds": ["palnatokesgade-mosquito-1945"],
+    "coordinates": [
+      55.6752,
+      12.5641
+    ],
+    "relatedEventIds": [
+      "palnatokesgade-mosquito-1945"
+    ],
     "title": {
       "da": "RAF-angrebet på Shellhuset",
       "en": "The RAF raid on Shell House"
@@ -187,21 +304,34 @@
     ],
     "links": [
       {
-        "title": { "da": "Wikipedia — Shellhuset-angrebet", "en": "Wikipedia — Operation Carthage" },
+        "title": {
+          "da": "Wikipedia — Shellhuset-angrebet",
+          "en": "Wikipedia — Operation Carthage"
+        },
         "url": "https://da.wikipedia.org/wiki/Shellhuset-angrebet"
       },
       {
-        "title": { "da": "Wikipedia — Institut Jeanne d'Arc-tragedien", "en": "Wikipedia — Institut Jeanne d'Arc tragedy" },
+        "title": {
+          "da": "Wikipedia — Institut Jeanne d'Arc-tragedien",
+          "en": "Wikipedia — Institut Jeanne d'Arc tragedy"
+        },
         "url": "https://da.wikipedia.org/wiki/Institut_Jeanne_d%27Arc-tragedien"
       }
     ]
   },
   {
     "id": "palnatokesgade-mosquito-1945",
-    "categories": ["ww2"],
+    "categories": [
+      "ww2"
+    ],
     "year": 1945,
-    "coordinates": [55.6647, 12.5499],
-    "relatedEventIds": ["shellhuset-bombing-1945"],
+    "coordinates": [
+      55.6647,
+      12.5499
+    ],
+    "relatedEventIds": [
+      "shellhuset-bombing-1945"
+    ],
     "title": {
       "da": "Mosquito rager Palnatokesgade",
       "en": "Mosquito grazes Palnatokesgade"
@@ -219,20 +349,31 @@
     },
     "links": [
       {
-        "title": { "da": "Flickr — fotoserie fra Palnatokesgade (4 billeder)", "en": "Flickr — Palnatokesgade photo series (4 images)" },
+        "title": {
+          "da": "Flickr — fotoserie fra Palnatokesgade (4 billeder)",
+          "en": "Flickr — Palnatokesgade photo series (4 images)"
+        },
         "url": "https://www.flickr.com/photos/larskjensen/3074273451/in/photolist-5FEsoF-5FEtGt-5FJKM1-5FJLXC/"
       },
       {
-        "title": { "da": "Wikipedia — Shellhuset-angrebet", "en": "Wikipedia — Operation Carthage" },
+        "title": {
+          "da": "Wikipedia — Shellhuset-angrebet",
+          "en": "Wikipedia — Operation Carthage"
+        },
         "url": "https://da.wikipedia.org/wiki/Shellhuset-angrebet"
       }
     ]
   },
   {
     "id": "henrettelsesskuret-1950",
-    "categories": ["ww2"],
+    "categories": [
+      "ww2"
+    ],
     "year": 1950,
-    "coordinates": [55.6799, 12.6136],
+    "coordinates": [
+      55.6799,
+      12.6136
+    ],
     "title": {
       "da": "Henrettelsesskuret — Danmarks sidste henrettelse",
       "en": "The Execution Shed — Denmark's last execution"
@@ -250,21 +391,34 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — Henrettelsesskuret", "en": "Wikipedia — Henrettelsesskuret" },
+        "title": {
+          "da": "Wikipedia — Henrettelsesskuret",
+          "en": "Wikipedia — Henrettelsesskuret"
+        },
         "url": "https://da.wikipedia.org/wiki/Henrettelsesskuret"
       },
       {
-        "title": { "da": "Wikipedia — Retsopgøret efter besættelsen", "en": "Wikipedia — Post-war legal settlement" },
+        "title": {
+          "da": "Wikipedia — Retsopgøret efter besættelsen",
+          "en": "Wikipedia — Post-war legal settlement"
+        },
         "url": "https://da.wikipedia.org/wiki/Retsopg%C3%B8ret_efter_besættelsen"
       }
     ]
   },
   {
     "id": "bopa-burmeister-1944",
-    "categories": ["ww2"],
+    "categories": [
+      "ww2"
+    ],
     "year": 1944,
-    "coordinates": [55.6698, 12.5994],
-    "relatedEventIds": ["hestetyven-rosengarden-1944"],
+    "coordinates": [
+      55.6698,
+      12.5994
+    ],
+    "relatedEventIds": [
+      "hestetyven-rosengarden-1944"
+    ],
     "title": {
       "da": "BOPA-sabotage på Burmeister & Wain",
       "en": "BOPA sabotage at Burmeister & Wain"
@@ -282,20 +436,31 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — BOPA", "en": "Wikipedia — BOPA" },
+        "title": {
+          "da": "Wikipedia — BOPA",
+          "en": "Wikipedia — BOPA"
+        },
         "url": "https://da.wikipedia.org/wiki/BOPA"
       },
       {
-        "title": { "da": "Frihedsmuseet", "en": "The Museum of Danish Resistance" },
+        "title": {
+          "da": "Frihedsmuseet",
+          "en": "The Museum of Danish Resistance"
+        },
         "url": "https://natmus.dk/museer-og-slotte/frihedsmuseet/"
       }
     ]
   },
   {
     "id": "rosenbaum-mord-1933",
-    "categories": ["murder"],
+    "categories": [
+      "murder"
+    ],
     "year": 1933,
-    "coordinates": [55.6784, 12.5692],
+    "coordinates": [
+      55.6784,
+      12.5692
+    ],
     "title": {
       "da": "Rosenbaum-sagen",
       "en": "The Rosenbaum Case"
@@ -313,24 +478,35 @@
     },
     "links": [
       {
-        "title": { "da": "Rigsarkivet", "en": "Danish National Archives" },
+        "title": {
+          "da": "Rigsarkivet",
+          "en": "Danish National Archives"
+        },
         "url": "https://www.rigsarkivet.dk"
       }
     ]
   },
   {
     "id": "synagoge-bombning-1985",
-    "categories": ["terror"],
+    "categories": [
+      "terror"
+    ],
     "year": 1985,
-    "coordinates": [55.6820, 12.5739],
-    "relatedEventIds": ["synagogen-terrorangreb-2015"],
+    "coordinates": [
+      55.682,
+      12.5739
+    ],
+    "relatedEventIds": [
+      "northwest-orient-bombning-1985",
+      "synagogen-terrorangreb-2015"
+    ],
     "title": {
       "da": "Bombeangreb mod synagogen i Krystalgade",
       "en": "Bombing of the synagogue in Krystalgade"
     },
     "description": {
-      "da": "Den 22. juli 1985 blev der kastet en håndgranat mod den jødiske synagoge i Krystalgade i det indre København. Attentatet skete samme nat som et angreb mod NordJyske Bank i Fredericia, og begge aktioner menes at have forbindelse til palæstinensiske terrorgrupper. Ingen blev dræbt, men angrebet rystede det jødiske samfund i Danmark.",
-      "en": "On 22 July 1985, a hand grenade was thrown at the Jewish synagogue in Krystalgade in central Copenhagen. The attack occurred the same night as an attack on NordJyske Bank in Fredericia, and both actions are believed to be connected to Palestinian terrorist groups. No one was killed, but the attack shook the Jewish community in Denmark."
+      "da": "Den 22. juli 1985 kl. 10:37 eksploderede en bombe ved den store jødiske synagoge i Krystalgade 12 i det indre København — ti minutter efter den koordinerede bombesprengning mod Northwest Orient Airlines' kontor på Vester Farimagsgade. Syv personer blev såret. Bomben var del af et tredelt attentat udført af fire palæstinensere tilknyttet Palestinian Popular Struggle Front (PPSF): den tredje og kraftigste bombe var beregnet til El Al's kontor på Vesterbrogade, men gerningsmanden afbrød missionen og kastede den i Nyhavns kanal. Bag alle tre angreb stod den samme celle ledet af Mohammed Abu Talb og Marten Imandi fra Uppsala i Sverige. Angrebet på synagogen rystede det jødiske samfund i Danmark dybt og minder om, at antisemitisk terror ikke er et nyt fænomen: 30 år senere, i februar 2015, blev synagogen i Krystalgade atter mål for et terrorangreb — denne gang med ét dødsoffer.",
+      "en": "On 22 July 1985 at 10:37 am, a bomb exploded at the Great Synagogue in Krystalgade 12 in central Copenhagen — ten minutes after the coordinated bombing of the Northwest Orient Airlines office on Vester Farimagsgade. Seven people were injured. The bomb was part of a three-pronged attack carried out by four Palestinians affiliated with the Palestinian Popular Struggle Front (PPSF): the third and most powerful device was intended for El Al's office on Vesterbrogade, but the perpetrator abandoned the mission and threw the bag into Nyhavn canal. All three attacks were carried out by the same cell led by Mohammed Abu Talb and Marten Imandi from Uppsala, Sweden. The attack on the synagogue deeply shook the Jewish community in Denmark — a reminder that antisemitic terrorism is not a new phenomenon: 30 years later, in February 2015, the synagogue in Krystalgade was targeted once again, this time with one fatality."
     },
     "source": "Politiets Efterretningstjeneste / PET",
     "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/86/Krystalgade_-_The_synagogue.jpg",
@@ -341,21 +517,36 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — Angrebet på synagogen i Krystalgade", "en": "Wikipedia — Attack on the Krystalgade synagogue" },
+        "title": {
+          "da": "Wikipedia — Angrebet på synagogen i Krystalgade",
+          "en": "Wikipedia — Attack on the Krystalgade synagogue"
+        },
         "url": "https://da.wikipedia.org/wiki/Angrebet_p%C3%A5_synagogen_i_Krystalgade_1985"
       },
       {
-        "title": { "da": "Det Jødiske Samfund i Danmark", "en": "The Jewish Community in Denmark" },
+        "title": {
+          "da": "Det Jødiske Samfund i Danmark",
+          "en": "The Jewish Community in Denmark"
+        },
         "url": "https://www.mosaiske.dk"
       }
     ]
   },
   {
     "id": "sopromenaden-dobbeltdrab-1983",
-    "categories": ["gangs", "murder"],
+    "categories": [
+      "gangs",
+      "murder"
+    ],
     "year": 1983,
-    "coordinates": [55.69571, 12.57952],
-    "relatedEventIds": ["agerlandsvej-makrellen-1984", "niels-aage-albret-1987"],
+    "coordinates": [
+      55.69571,
+      12.57952
+    ],
+    "relatedEventIds": [
+      "agerlandsvej-makrellen-1984",
+      "niels-aage-albret-1987"
+    ],
     "title": {
       "da": "Dobbeltdrabet på Restaurant Søpromenaden",
       "en": "The double murder at Restaurant Søpromenaden"
@@ -373,21 +564,37 @@
     },
     "links": [
       {
-        "title": { "da": "Drabssager.dk — Dobbeltdrab på Østerbro 1983", "en": "Drabssager.dk — Double murder on Østerbro 1983" },
+        "title": {
+          "da": "Drabssager.dk — Dobbeltdrab på Østerbro 1983",
+          "en": "Drabssager.dk — Double murder on Østerbro 1983"
+        },
         "url": "https://drabssager.dk/record/fe4b8202-9ae5-4cfd-9e75-a1aac109fde4"
       },
       {
-        "title": { "da": "Wikipedia — Bent Svane Nielsen (Blondie)", "en": "Wikipedia — Bent Svane Nielsen (Blondie)" },
+        "title": {
+          "da": "Wikipedia — Bent Svane Nielsen (Blondie)",
+          "en": "Wikipedia — Bent Svane Nielsen (Blondie)"
+        },
         "url": "https://da.wikipedia.org/wiki/Bent_Svane_Nielsen"
       }
     ]
   },
   {
     "id": "agerlandsvej-makrellen-1984",
-    "categories": ["gangs", "murder"],
+    "categories": [
+      "gangs",
+      "murder"
+    ],
     "year": 1984,
-    "coordinates": [55.6408290, 12.5962940],
-    "relatedEventIds": ["sopromenaden-dobbeltdrab-1983", "niels-aage-albret-1987", "titangade-hells-angels-1996"],
+    "coordinates": [
+      55.640829,
+      12.596294
+    ],
+    "relatedEventIds": [
+      "sopromenaden-dobbeltdrab-1983",
+      "niels-aage-albret-1987",
+      "titangade-hells-angels-1996"
+    ],
     "title": {
       "da": "Likvideringen af Makrellen på Agerlandsvej",
       "en": "The liquidation of Makrellen on Agerlandsvej"
@@ -401,25 +608,43 @@
     "imageAttribution": null,
     "links": [
       {
-        "title": { "da": "Wikipedia — Jørn »Jønke« Nielsen", "en": "Wikipedia — Jørn 'Jønke' Nielsen" },
+        "title": {
+          "da": "Wikipedia — Jørn »Jønke« Nielsen",
+          "en": "Wikipedia — Jørn 'Jønke' Nielsen"
+        },
         "url": "https://da.wikipedia.org/wiki/J%C3%B8nke"
       },
       {
-        "title": { "da": "Ugeavisen: Bakspejlet — Rockermordet på Agerlandsvej", "en": "Ugeavisen: Lookback — The biker murder on Agerlandsvej" },
+        "title": {
+          "da": "Ugeavisen: Bakspejlet — Rockermordet på Agerlandsvej",
+          "en": "Ugeavisen: Lookback — The biker murder on Agerlandsvej"
+        },
         "url": "https://ugeavisen.dk/amager/artikel/bakspejlet-rockermordet-p%C3%A5-agerlandsvej"
       },
       {
-        "title": { "da": "DR Lyd: Mordet på Makrel del 1 — Broderskab", "en": "DR Audio: The murder of Makrel part 1 — Brotherhood" },
+        "title": {
+          "da": "DR Lyd: Mordet på Makrel del 1 — Broderskab",
+          "en": "DR Audio: The murder of Makrel part 1 — Brotherhood"
+        },
         "url": "https://www.dr.dk/lyd/special-radio/bakspejl/bakspejl-2021/mordet-paa-makrel-del-1-broderskab-11162111012"
       }
     ]
   },
   {
     "id": "lufthavnsdrabet-1996",
-    "categories": ["gangs", "murder"],
+    "categories": [
+      "gangs",
+      "murder"
+    ],
     "year": 1996,
-    "coordinates": [55.6293, 12.6485],
-    "relatedEventIds": ["titangade-hells-angels-1996", "claus-bork-hansen-2001"],
+    "coordinates": [
+      55.6293,
+      12.6485
+    ],
+    "relatedEventIds": [
+      "titangade-hells-angels-1996",
+      "claus-bork-hansen-2001"
+    ],
     "title": {
       "da": "Lufthavnsdrabet — Hells Angels skyder Bandidos i Kastrup",
       "en": "The Airport Murder — Hells Angels shoot Bandidos at Kastrup"
@@ -437,25 +662,44 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — Michael Brokside", "en": "Wikipedia — Michael Brokside" },
+        "title": {
+          "da": "Wikipedia — Michael Brokside",
+          "en": "Wikipedia — Michael Brokside"
+        },
         "url": "https://da.wikipedia.org/wiki/Michael_Brokside"
       },
       {
-        "title": { "da": "DR: Den store rockerkrig — Drabet i lufthavnen", "en": "DR: The great biker war — The airport murder" },
+        "title": {
+          "da": "DR: Den store rockerkrig — Drabet i lufthavnen",
+          "en": "DR: The great biker war — The airport murder"
+        },
         "url": "https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen/djaevlen-i-detaljen-2021/den-store-rockerkrig-1-3-drabet-i-lufthavnen-16122111627"
       },
       {
-        "title": { "da": "Politimuseet — Da Norden eksploderede", "en": "The Police Museum — When the North exploded" },
+        "title": {
+          "da": "Politimuseet — Da Norden eksploderede",
+          "en": "The Police Museum — When the North exploded"
+        },
         "url": "https://politi.dk/om-politiet/politimuseet/da-norden-eksploderede"
       }
     ]
   },
   {
     "id": "titangade-hells-angels-1996",
-    "categories": ["gangs", "murder"],
+    "categories": [
+      "gangs",
+      "murder"
+    ],
     "year": 1996,
-    "coordinates": [55.7038, 12.5530],
-    "relatedEventIds": ["lufthavnsdrabet-1996", "agerlandsvej-makrellen-1984", "claus-bork-hansen-2001"],
+    "coordinates": [
+      55.7038,
+      12.553
+    ],
+    "relatedEventIds": [
+      "lufthavnsdrabet-1996",
+      "agerlandsvej-makrellen-1984",
+      "claus-bork-hansen-2001"
+    ],
     "title": {
       "da": "Raketten mod Hells Angels' Titangade-klubhus",
       "en": "The rocket attack on the Hells Angels' Titangade clubhouse"
@@ -473,21 +717,36 @@
     },
     "links": [
       {
-        "title": { "da": "Politimuseet — Da Norden eksploderede", "en": "The Police Museum — When the North exploded" },
+        "title": {
+          "da": "Politimuseet — Da Norden eksploderede",
+          "en": "The Police Museum — When the North exploded"
+        },
         "url": "https://politi.dk/om-politiet/politimuseet/da-norden-eksploderede"
       },
       {
-        "title": { "da": "Wikipedia — Den Store Nordiske Rockerkrig", "en": "Wikipedia — Great Nordic Biker War" },
+        "title": {
+          "da": "Wikipedia — Den Store Nordiske Rockerkrig",
+          "en": "Wikipedia — Great Nordic Biker War"
+        },
         "url": "https://da.wikipedia.org/wiki/Den_Store_Nordiske_Rockerkrig"
       }
     ]
   },
   {
     "id": "niels-aage-albret-1987",
-    "categories": ["gangs", "murder"],
+    "categories": [
+      "gangs",
+      "murder"
+    ],
     "year": 1987,
-    "coordinates": [55.6741, 12.6033],
-    "relatedEventIds": ["sopromenaden-dobbeltdrab-1983", "agerlandsvej-makrellen-1984"],
+    "coordinates": [
+      55.6741,
+      12.6033
+    ],
+    "relatedEventIds": [
+      "sopromenaden-dobbeltdrab-1983",
+      "agerlandsvej-makrellen-1984"
+    ],
     "title": {
       "da": "Niels Albret drabet — liget i betongulvet på Christiania",
       "en": "The Niels Albret murder — body in the concrete floor at Christiania"
@@ -505,21 +764,37 @@
     },
     "links": [
       {
-        "title": { "da": "Drabssager.dk — Peter Espensen / Niels-Aage Albret", "en": "Drabssager.dk — Peter Espensen / Niels-Aage Albret" },
+        "title": {
+          "da": "Drabssager.dk — Peter Espensen / Niels-Aage Albret",
+          "en": "Drabssager.dk — Peter Espensen / Niels-Aage Albret"
+        },
         "url": "https://drabssager.dk/record/6195e905-6bec-4ff4-a306-8db1ebb682de"
       },
       {
-        "title": { "da": "Wikipedia — Bullshit (bande)", "en": "Wikipedia — Bullshit MC" },
+        "title": {
+          "da": "Wikipedia — Bullshit (bande)",
+          "en": "Wikipedia — Bullshit MC"
+        },
         "url": "https://da.wikipedia.org/wiki/Bullshit_(bande)"
       }
     ]
   },
   {
     "id": "claus-bork-hansen-2001",
-    "categories": ["gangs", "murder"],
+    "categories": [
+      "gangs",
+      "murder"
+    ],
     "year": 2001,
-    "coordinates": [55.6913, 12.5120],
-    "relatedEventIds": ["lufthavnsdrabet-1996", "titangade-hells-angels-1996", "trippeldrabet-frederiksberg-2015"],
+    "coordinates": [
+      55.6913,
+      12.512
+    ],
+    "relatedEventIds": [
+      "lufthavnsdrabet-1996",
+      "titangade-hells-angels-1996",
+      "trippeldrabet-frederiksberg-2015"
+    ],
     "title": {
       "da": "Likvideringen af Karate-Claus på A.F. Beyersvej",
       "en": "The liquidation of Karate-Claus on A.F. Beyersvej"
@@ -533,21 +808,35 @@
     "imageAttribution": null,
     "links": [
       {
-        "title": { "da": "Wikipedia — Drabet på Claus Bork Hansen", "en": "Wikipedia — The murder of Claus Bork Hansen" },
+        "title": {
+          "da": "Wikipedia — Drabet på Claus Bork Hansen",
+          "en": "Wikipedia — The murder of Claus Bork Hansen"
+        },
         "url": "https://da.wikipedia.org/wiki/Drabet_p%C3%A5_Claus_Bork_Hansen"
       },
       {
-        "title": { "da": "Bogen: Abemanden — Mordet på Karate-Claus (Mads Brügger)", "en": "Book: Abemanden — Murder of Karate-Claus (Mads Brügger)" },
+        "title": {
+          "da": "Bogen: Abemanden — Mordet på Karate-Claus (Mads Brügger)",
+          "en": "Book: Abemanden — Murder of Karate-Claus (Mads Brügger)"
+        },
         "url": "https://peoplespress.dk/boger/abemanden/"
       }
     ]
   },
   {
     "id": "trippeldrabet-frederiksberg-2015",
-    "categories": ["gangs", "murder"],
+    "categories": [
+      "gangs",
+      "murder"
+    ],
     "year": 2015,
-    "coordinates": [55.6816, 12.4974],
-    "relatedEventIds": ["claus-bork-hansen-2001"],
+    "coordinates": [
+      55.6816,
+      12.4974
+    ],
+    "relatedEventIds": [
+      "claus-bork-hansen-2001"
+    ],
     "title": {
       "da": "Trippeldrabet på Frederiksberg — tre mænd skudt i søvne",
       "en": "The Frederiksberg triple murder — three men shot in their sleep"
@@ -561,21 +850,34 @@
     "imageAttribution": null,
     "links": [
       {
-        "title": { "da": "Wikipedia — Trippeldrabet på Frederiksberg", "en": "Wikipedia — Triple murder at Frederiksberg" },
+        "title": {
+          "da": "Wikipedia — Trippeldrabet på Frederiksberg",
+          "en": "Wikipedia — Triple murder at Frederiksberg"
+        },
         "url": "https://da.wikipedia.org/wiki/Trippeldrabet_p%C3%A5_Frederiksberg"
       },
       {
-        "title": { "da": "DR: Overblik — forstå sagen om trippeldrabet", "en": "DR: Overview — understanding the triple murder case" },
+        "title": {
+          "da": "DR: Overblik — forstå sagen om trippeldrabet",
+          "en": "DR: Overview — understanding the triple murder case"
+        },
         "url": "https://www.dr.dk/nyheder/indland/overblik-forstaa-sagen-om-trippeldrabet-paa-frederiksberg"
       }
     ]
   },
   {
     "id": "krudttoenden-terrorangreb-2015",
-    "categories": ["terror"],
+    "categories": [
+      "terror"
+    ],
     "year": 2015,
-    "coordinates": [55.7052, 12.5751],
-    "relatedEventIds": ["synagogen-terrorangreb-2015"],
+    "coordinates": [
+      55.7052,
+      12.5751
+    ],
+    "relatedEventIds": [
+      "synagogen-terrorangreb-2015"
+    ],
     "title": {
       "da": "Terrorangrebet på Krudttønden",
       "en": "The terrorist attack at Krudttønden"
@@ -593,21 +895,36 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — Terrorangrebene i København 2015", "en": "Wikipedia — 2015 Copenhagen attacks" },
+        "title": {
+          "da": "Wikipedia — Terrorangrebene i København 2015",
+          "en": "Wikipedia — 2015 Copenhagen attacks"
+        },
         "url": "https://da.wikipedia.org/wiki/Terrorangrebene_i_K%C3%B8benhavn_2015"
       },
       {
-        "title": { "da": "Lex — Terrorangrebet på Krudttønden og synagogen", "en": "Lex — The Krudttønden and synagogue attack" },
+        "title": {
+          "da": "Lex — Terrorangrebet på Krudttønden og synagogen",
+          "en": "Lex — The Krudttønden and synagogue attack"
+        },
         "url": "https://lex.dk/terrorangrebet_p%C3%A5_Krudtt%C3%B8nden_og_synagogen"
       }
     ]
   },
   {
     "id": "synagogen-terrorangreb-2015",
-    "categories": ["terror"],
+    "categories": [
+      "terror"
+    ],
     "year": 2015,
-    "coordinates": [55.6813, 12.5731],
-    "relatedEventIds": ["krudttoenden-terrorangreb-2015", "synagoge-bombning-1985"],
+    "coordinates": [
+      55.6813,
+      12.5731
+    ],
+    "relatedEventIds": [
+      "krudttoenden-terrorangreb-2015",
+      "synagoge-bombning-1985",
+      "northwest-orient-bombning-1985"
+    ],
     "title": {
       "da": "Terrorangrebet på synagogen i Krystalgade",
       "en": "The terrorist attack on the synagogue in Krystalgade"
@@ -625,20 +942,31 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — Terrorangrebene i København 2015", "en": "Wikipedia — 2015 Copenhagen attacks" },
+        "title": {
+          "da": "Wikipedia — Terrorangrebene i København 2015",
+          "en": "Wikipedia — 2015 Copenhagen attacks"
+        },
         "url": "https://da.wikipedia.org/wiki/Terrorangrebene_i_K%C3%B8benhavn_2015"
       },
       {
-        "title": { "da": "Lex — Terrorangrebet på Krudttønden og synagogen", "en": "Lex — The Krudttønden and synagogue attack" },
+        "title": {
+          "da": "Lex — Terrorangrebet på Krudttønden og synagogen",
+          "en": "Lex — The Krudttønden and synagogue attack"
+        },
         "url": "https://lex.dk/terrorangrebet_p%C3%A5_Krudtt%C3%B8nden_og_synagogen"
       }
     ]
   },
   {
     "id": "uc3-nautilus-kim-wall-2017",
-    "categories": ["murder"],
+    "categories": [
+      "murder"
+    ],
     "year": 2017,
-    "coordinates": [55.6910, 12.6155],
+    "coordinates": [
+      55.691,
+      12.6155
+    ],
     "title": {
       "da": "Ubådssagen — Kim Wall og UC3 Nautilus",
       "en": "The Submarine Case — Kim Wall and UC3 Nautilus"
@@ -656,20 +984,31 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — Ubådssagen", "en": "Wikipedia — Murder of Kim Wall" },
+        "title": {
+          "da": "Wikipedia — Ubådssagen",
+          "en": "Wikipedia — Murder of Kim Wall"
+        },
         "url": "https://da.wikipedia.org/wiki/Ubådssagen"
       },
       {
-        "title": { "da": "DR: Overblik over ubådssagen", "en": "DR: Overview of the submarine case" },
+        "title": {
+          "da": "DR: Overblik over ubådssagen",
+          "en": "DR: Overview of the submarine case"
+        },
         "url": "https://www.dr.dk/nyheder/indland/overblik-det-ved-vi-om-den-sunkne-ubaad-og-den-savnede-svenske-kvinde"
       }
     ]
   },
   {
     "id": "jaguar-taxa-torben-2005",
-    "categories": ["murder"],
+    "categories": [
+      "murder"
+    ],
     "year": 2005,
-    "coordinates": [55.6866, 12.5861],
+    "coordinates": [
+      55.6866,
+      12.5861
+    ],
     "title": {
       "da": "Jaguaren — Taxa-Torbens parterede lig i Klerkegade",
       "en": "Jaguar — Taxi driver Torben's dismembered body in Klerkegade"
@@ -687,21 +1026,34 @@
     },
     "links": [
       {
-        "title": { "da": "Drabssager.dk — Taxa-Torben / Jaguar", "en": "Drabssager.dk — Taxi Torben / Jaguar" },
+        "title": {
+          "da": "Drabssager.dk — Taxa-Torben / Jaguar",
+          "en": "Drabssager.dk — Taxi Torben / Jaguar"
+        },
         "url": "https://drabssager.dk/case/77944"
       },
       {
-        "title": { "da": "TV 2: Politiet på sporet af Jaguar 11 år efter", "en": "TV 2: Police on Jaguar's trail 11 years later" },
+        "title": {
+          "da": "TV 2: Politiet på sporet af Jaguar 11 år efter",
+          "en": "TV 2: Police on Jaguar's trail 11 years later"
+        },
         "url": "https://nyheder.tv2.dk/krimi/2016-01-28-taxachauffoer-fundet-draebt-og-parteret-nu-er-politiet-paa-sporet-af-jaguar"
       }
     ]
   },
   {
     "id": "hotel-jorgensen-bombe-2010",
-    "categories": ["terror"],
+    "categories": [
+      "terror"
+    ],
     "year": 2010,
-    "coordinates": [55.6837, 12.5683],
-    "relatedEventIds": ["orstedsparken-anholdelse-2010"],
+    "coordinates": [
+      55.6837,
+      12.5683
+    ],
+    "relatedEventIds": [
+      "orstedsparken-anholdelse-2010"
+    ],
     "title": {
       "da": "Bombeekslosionen på Hotel Jørgensen",
       "en": "The bomb explosion at Hotel Jørgensen"
@@ -719,17 +1071,27 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — Eksplosionen på Hotel Jørgensen", "en": "Wikipedia — Hotel Jørgensen explosion" },
+        "title": {
+          "da": "Wikipedia — Eksplosionen på Hotel Jørgensen",
+          "en": "Wikipedia — Hotel Jørgensen explosion"
+        },
         "url": "https://da.wikipedia.org/wiki/Eksplosionen_p%C3%A5_Hotel_J%C3%B8rgensen"
       }
     ]
   },
   {
     "id": "orstedsparken-anholdelse-2010",
-    "categories": ["terror"],
+    "categories": [
+      "terror"
+    ],
     "year": 2010,
-    "coordinates": [55.6809, 12.5663],
-    "relatedEventIds": ["hotel-jorgensen-bombe-2010"],
+    "coordinates": [
+      55.6809,
+      12.5663
+    ],
+    "relatedEventIds": [
+      "hotel-jorgensen-bombe-2010"
+    ],
     "title": {
       "da": "Lors Doukaiev anholdt i Ørstedsparken",
       "en": "Lors Doukaiev arrested in Ørstedsparken"
@@ -747,17 +1109,28 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — Eksplosionen på Hotel Jørgensen", "en": "Wikipedia — Hotel Jørgensen explosion" },
+        "title": {
+          "da": "Wikipedia — Eksplosionen på Hotel Jørgensen",
+          "en": "Wikipedia — Hotel Jørgensen explosion"
+        },
         "url": "https://da.wikipedia.org/wiki/Eksplosionen_p%C3%A5_Hotel_J%C3%B8rgensen"
       }
     ]
   },
   {
     "id": "blekingegade-lejlighed-1988",
-    "categories": ["robbery", "terror"],
+    "categories": [
+      "robbery",
+      "terror"
+    ],
     "year": 1988,
-    "coordinates": [55.6697, 12.5924],
-    "relatedEventIds": ["blekingegade-roeveri-1988"],
+    "coordinates": [
+      55.6697,
+      12.5924
+    ],
+    "relatedEventIds": [
+      "blekingegade-roeveri-1988"
+    ],
     "title": {
       "da": "Blekingegadebandens skjulested",
       "en": "The Blekingegade Gang's hideout"
@@ -775,21 +1148,35 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — Blekingegadebanden", "en": "Wikipedia — Blekingegade Gang" },
+        "title": {
+          "da": "Wikipedia — Blekingegadebanden",
+          "en": "Wikipedia — Blekingegade Gang"
+        },
         "url": "https://da.wikipedia.org/wiki/Blekingegadebanden"
       },
       {
-        "title": { "da": "Dokumentarfilm — Blekingegadebanden (2009)", "en": "Documentary — The Blekingegade Gang (2009)" },
+        "title": {
+          "da": "Dokumentarfilm — Blekingegadebanden (2009)",
+          "en": "Documentary — The Blekingegade Gang (2009)"
+        },
         "url": "https://www.dr.dk/drtv/serie/blekingegadebanden_57842"
       }
     ]
   },
   {
     "id": "blekingegade-roeveri-1988",
-    "categories": ["robbery", "terror"],
+    "categories": [
+      "robbery",
+      "terror"
+    ],
     "year": 1988,
-    "coordinates": [55.6825, 12.5713],
-    "relatedEventIds": ["blekingegade-lejlighed-1988"],
+    "coordinates": [
+      55.6825,
+      12.5713
+    ],
+    "relatedEventIds": [
+      "blekingegade-lejlighed-1988"
+    ],
     "title": {
       "da": "Blekingegadebandens sidste røveri",
       "en": "The Blekingegade Gang's final robbery"
@@ -807,11 +1194,17 @@
     },
     "links": [
       {
-        "title": { "da": "Wikipedia — Blekingegadebanden", "en": "Wikipedia — Blekingegade Gang" },
+        "title": {
+          "da": "Wikipedia — Blekingegadebanden",
+          "en": "Wikipedia — Blekingegade Gang"
+        },
         "url": "https://da.wikipedia.org/wiki/Blekingegadebanden"
       },
       {
-        "title": { "da": "Dokumentarfilm — Blekingegadebanden (2009)", "en": "Documentary — The Blekingegade Gang (2009)" },
+        "title": {
+          "da": "Dokumentarfilm — Blekingegadebanden (2009)",
+          "en": "Documentary — The Blekingegade Gang (2009)"
+        },
         "url": "https://www.dr.dk/drtv/serie/blekingegadebanden_57842"
       }
     ]
