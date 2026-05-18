@@ -13,7 +13,12 @@
       "en": "On 22 June 1944, the sabotage group BOPA carried out one of the most spectacular attacks of the occupation at the Burmeister & Wain shipyard on Refshaleøen. The explosions destroyed machine halls and significantly delayed German warship production. The action was one of the largest industrial sabotage operations during the German occupation of Denmark."
     },
     "source": "Frihedsmuseet / The Museum of Danish Resistance",
-    "imageURL": null
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Burmeister_og_Wain%27s_ny_bygning_v._havnen%2C_september_1924.jpg/960px-Burmeister_og_Wain%27s_ny_bygning_v._havnen%2C_september_1924.jpg",
+    "imageAttribution": {
+      "author": "Ukendt ophavsmand",
+      "license": "CC BY-SA 4.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Burmeister_og_Wain%27s_ny_bygning_v._havnen,_september_1924.jpg"
+    }
   },
   {
     "id": "rosenbaum-mord-1933",
@@ -29,7 +34,12 @@
       "en": "One of the most talked-about murder cases in 1930s Copenhagen. The case attracted massive media attention and raised questions about police investigative methods. The crime scene in the Nørreport quarter became a dark chapter in the city's criminal history."
     },
     "source": "Rigsarkivet",
-    "imageURL": null
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Groenttorvet_nu_israels_plads_1930_th_amagerkoner_med_typisk_hovedbeklaedning_kbh_bymuseum.jpg/800px-Groenttorvet_nu_israels_plads_1930_th_amagerkoner_med_typisk_hovedbeklaedning_kbh_bymuseum.jpg",
+    "imageAttribution": {
+      "author": "Københavns Bymuseum",
+      "license": "Public Domain",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Groenttorvet_nu_israels_plads_1930_th_amagerkoner_med_typisk_hovedbeklaedning_kbh_bymuseum.jpg"
+    }
   },
   {
     "id": "synagoge-bombning-1985",
@@ -45,7 +55,12 @@
       "en": "On 22 July 1985, a hand grenade was thrown at the Jewish synagogue in Krystalgade in central Copenhagen. The attack occurred the same night as an attack on NordJyske Bank in Fredericia, and both actions are believed to be connected to Palestinian terrorist groups. No one was killed, but the attack shook the Jewish community in Denmark."
     },
     "source": "Politiets Efterretningstjeneste / PET",
-    "imageURL": null
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/86/Krystalgade_-_The_synagogue.jpg",
+    "imageAttribution": {
+      "author": "Julius Friedländer (1860)",
+      "license": "Public Domain",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Krystalgade_-_The_synagogue.jpg"
+    }
   },
   {
     "id": "blekingegade-lejlighed-1988",
@@ -62,7 +77,12 @@
       "en": "From an outwardly ordinary apartment at Blekingegade 2 on Amager, a group of political activists operated in deep secrecy for over a decade. The group, calling themselves the Communist Working Circle, committed a series of armed robberies against banks and post offices to fund Palestinian guerrilla movements — including the PFLP. The apartment served as a base for planning and storing equipment."
     },
     "source": "Blekingegadebanden — Jakob Kierkegaard (dokumentarfilm, 2009)",
-    "imageURL": null
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/15/Blekingegade_01.jpg",
+    "imageAttribution": {
+      "author": "Ukendt ophavsmand",
+      "license": "CC BY-SA 4.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Blekingegade_01.jpg"
+    }
   },
   {
     "id": "blekingegade-roeveri-1988",
@@ -79,6 +99,11 @@
       "en": "On 2 November 1988, the Blekingegade Gang attempted to rob an armoured money transport at Nørre Voldgade in central Copenhagen. During the escape, police officer Jesper Duus Jensen was shot and killed. It was Denmark's most serious robbery-murder in modern times and triggered the largest police investigation in Danish history. All gang members were arrested and sentenced to long prison terms."
     },
     "source": "Blekingegadebanden — Jakob Kierkegaard (dokumentarfilm, 2009)",
-    "imageURL": null
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/bc/N%C3%B8rre_Voldgade.jpg",
+    "imageAttribution": {
+      "author": "Ukendt ophavsmand",
+      "license": "CC BY-SA 3.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:N%C3%B8rre_Voldgade.jpg"
+    }
   }
 ]
