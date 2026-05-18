@@ -1,5 +1,65 @@
 [
   {
+    "id": "shellhuset-bombing-1945",
+    "categories": ["ww2"],
+    "year": 1945,
+    "coordinates": [55.6752, 12.5641],
+    "relatedEventIds": ["palnatokesgade-mosquito-1945"],
+    "title": {
+      "da": "RAF-angrebet på Shellhuset",
+      "en": "The RAF raid on Shell House"
+    },
+    "description": {
+      "da": "Den 21. marts 1945 kl. 11 angreb 18 britiske de Havilland Mosquito-bombefly Shellhuset på H.C. Andersens Boulevard — Gestapos hovedkvarter i København, hvor tyske efterretningsakter og fangne danske modstandsfolk var opbevaret. Angrebet, der var kodename Operation Carthage, lykkedes: vestfløjen blev lagt næsten i ruiner, 18 fanger slap fri, og over 100 Gestapo-officerer og kollaboratører blev dræbt. Men katastrofen fulgte umiddelbart efter: et af flyene fløj for lavt, ragede en bygning på Palnatokesgade og styrtede ned nær Institut Jeanne d'Arc i Frederiksberg. Efterfølgende fly forvekslede vraget og røgen med målet og bombede skolen — 87 skolebørn og 18 voksne omkom.",
+      "en": "On 21 March 1945 at 11:00, 18 British de Havilland Mosquito bombers attacked Shell House on H.C. Andersens Boulevard — the Gestapo headquarters in Copenhagen, where German intelligence files and captured Danish resistance members were held. The operation, codenamed Operation Carthage, succeeded: the west wing was reduced nearly to rubble, 18 prisoners were freed, and over 100 Gestapo officers and collaborators were killed. But catastrophe followed immediately: one aircraft flew too low, grazed a building on Palnatokesgade and crashed near Institut Jeanne d'Arc in Frederiksberg. Following aircraft mistook the wreck and smoke for the target and bombed the school — 87 schoolchildren and 18 adults were killed."
+    },
+    "source": "Wikipedia — Shellhuset-angrebet / Operation Carthage",
+    "imageURL": null,
+    "imageAttribution": null,
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Shellhuset-angrebet", "en": "Wikipedia — Operation Carthage" },
+        "url": "https://da.wikipedia.org/wiki/Shellhuset-angrebet"
+      },
+      {
+        "title": { "da": "Wikipedia — Institut Jeanne d'Arc-tragedien", "en": "Wikipedia — Institut Jeanne d'Arc tragedy" },
+        "url": "https://da.wikipedia.org/wiki/Institut_Jeanne_d%27Arc-tragedien"
+      }
+    ]
+  },
+  {
+    "id": "palnatokesgade-mosquito-1945",
+    "categories": ["ww2"],
+    "year": 1945,
+    "coordinates": [55.6647, 12.5499],
+    "relatedEventIds": ["shellhuset-bombing-1945"],
+    "title": {
+      "da": "Mosquito rager Palnatokesgade",
+      "en": "Mosquito grazes Palnatokesgade"
+    },
+    "description": {
+      "da": "Under angrebet på Shellhuset den 21. marts 1945 fløj et af de britiske Mosquito-bombefly for lavt og ragede en bygning på Palnatokesgade. Skrammerne i facaden sidder der endnu — et stille vidne om det øjeblik flyet mistede kontrol. Det beskadigede fly styrtede kort efter ned nær Institut Jeanne d'Arc i Frederiksberg, og røgen fra vraget fik efterfølgende piloter til at forveksle stedet med Shellhuset og bombe skolen i stedet. 11 mennesker omkom ved selve nedstyrtet.",
+      "en": "During the attack on Shell House on 21 March 1945, one of the British Mosquito bombers flew too low and grazed a building on Palnatokesgade. The scrape marks in the facade are still visible today — a quiet witness to the moment the aircraft lost control. The damaged plane crashed shortly after near Institut Jeanne d'Arc in Frederiksberg, and the smoke from the wreck led following pilots to mistake the site for Shell House and bomb the school instead. 11 people were killed in the crash itself."
+    },
+    "source": "Lars K. Jensen / Flickr — fotoserie fra Palnatokesgade",
+    "imageURL": "https://live.staticflickr.com/3239/3074273451_4cc8a35e2d_b.jpg",
+    "imageAttribution": {
+      "author": "Lars K. Jensen",
+      "license": "CC BY 2.0",
+      "sourceURL": "https://www.flickr.com/photos/larskjensen/3074273451/"
+    },
+    "links": [
+      {
+        "title": { "da": "Flickr — fotoserie fra Palnatokesgade (4 billeder)", "en": "Flickr — Palnatokesgade photo series (4 images)" },
+        "url": "https://www.flickr.com/photos/larskjensen/3074273451/in/photolist-5FEsoF-5FEtGt-5FJKM1-5FJLXC/"
+      },
+      {
+        "title": { "da": "Wikipedia — Shellhuset-angrebet", "en": "Wikipedia — Operation Carthage" },
+        "url": "https://da.wikipedia.org/wiki/Shellhuset-angrebet"
+      }
+    ]
+  },
+  {
     "id": "henrettelsesskuret-1950",
     "categories": ["ww2"],
     "year": 1950,
