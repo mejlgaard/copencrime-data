@@ -18,7 +18,17 @@
       "author": "Kasper Mejlgaard",
       "license": "© Alle rettigheder forbeholdes",
       "sourceURL": null
-    }
+    },
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Henrettelsesskuret", "en": "Wikipedia — Henrettelsesskuret" },
+        "url": "https://da.wikipedia.org/wiki/Henrettelsesskuret"
+      },
+      {
+        "title": { "da": "Wikipedia — Retsopgøret efter besættelsen", "en": "Wikipedia — Post-war legal settlement" },
+        "url": "https://da.wikipedia.org/wiki/Retsopg%C3%B8ret_efter_besættelsen"
+      }
+    ]
   },
   {
     "id": "bopa-burmeister-1944",
@@ -39,7 +49,17 @@
       "author": "Ukendt ophavsmand",
       "license": "CC BY-SA 4.0",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Burmeister_og_Wain%27s_ny_bygning_v._havnen,_september_1924.jpg"
-    }
+    },
+    "links": [
+      {
+        "title": { "da": "Wikipedia — BOPA", "en": "Wikipedia — BOPA" },
+        "url": "https://da.wikipedia.org/wiki/BOPA"
+      },
+      {
+        "title": { "da": "Frihedsmuseet", "en": "The Museum of Danish Resistance" },
+        "url": "https://natmus.dk/museer-og-slotte/frihedsmuseet/"
+      }
+    ]
   },
   {
     "id": "rosenbaum-mord-1933",
@@ -60,7 +80,13 @@
       "author": "Københavns Bymuseum",
       "license": "Public Domain",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Groenttorvet_nu_israels_plads_1930_th_amagerkoner_med_typisk_hovedbeklaedning_kbh_bymuseum.jpg"
-    }
+    },
+    "links": [
+      {
+        "title": { "da": "Rigsarkivet", "en": "Danish National Archives" },
+        "url": "https://www.rigsarkivet.dk"
+      }
+    ]
   },
   {
     "id": "synagoge-bombning-1985",
@@ -81,29 +107,17 @@
       "author": "Julius Friedländer (1860)",
       "license": "Public Domain",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Krystalgade_-_The_synagogue.jpg"
-    }
-  },
-  {
-    "id": "blekingegade-lejlighed-1988",
-    "categories": ["robbery", "terror"],
-    "year": 1988,
-    "coordinates": [55.6697, 12.5924],
-    "relatedEventIds": ["blekingegade-roeveri-1988"],
-    "title": {
-      "da": "Blekingegadebandens skjulested",
-      "en": "The Blekingegade Gang's hideout"
     },
-    "description": {
-      "da": "Fra en tilsyneladende helt almindelig lejlighed på Blekingegade 2 på Amager opererede en gruppe politiske aktivister i dybeste hemmelighed i over et årti. Gruppen, der kaldte sig Kommunistisk Arbejdskreds, begik en række væbnede røverier mod banker og posthuse for at finansiere palæstinensiske guerillabevægelser — herunder PFLP. Lejligheden fungerede som base for planlægning og opbevaring af udstyr.",
-      "en": "From an outwardly ordinary apartment at Blekingegade 2 on Amager, a group of political activists operated in deep secrecy for over a decade. The group, calling themselves the Communist Working Circle, committed a series of armed robberies against banks and post offices to fund Palestinian guerrilla movements — including the PFLP. The apartment served as a base for planning and storing equipment."
-    },
-    "source": "Blekingegadebanden — Jakob Kierkegaard (dokumentarfilm, 2009)",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/15/Blekingegade_01.jpg",
-    "imageAttribution": {
-      "author": "Ukendt ophavsmand",
-      "license": "CC BY-SA 4.0",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Blekingegade_01.jpg"
-    }
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Angrebet på synagogen i Krystalgade", "en": "Wikipedia — Attack on the Krystalgade synagogue" },
+        "url": "https://da.wikipedia.org/wiki/Angrebet_p%C3%A5_synagogen_i_Krystalgade_1985"
+      },
+      {
+        "title": { "da": "Det Jødiske Samfund i Danmark", "en": "The Jewish Community in Denmark" },
+        "url": "https://www.mosaiske.dk"
+      }
+    ]
   },
   {
     "id": "hotel-jorgensen-bombe-2010",
@@ -125,7 +139,13 @@
       "author": "Leif Jørgensen (Dannebrog Spy)",
       "license": "CC BY-SA 4.0",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Hotel_J%C3%B8rgensen.jpg"
-    }
+    },
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Eksplosionen på Hotel Jørgensen", "en": "Wikipedia — Hotel Jørgensen explosion" },
+        "url": "https://da.wikipedia.org/wiki/Eksplosionen_p%C3%A5_Hotel_J%C3%B8rgensen"
+      }
+    ]
   },
   {
     "id": "orstedsparken-anholdelse-2010",
@@ -147,7 +167,45 @@
       "author": "Thue",
       "license": "Public Domain",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:%C3%98rstedsparken_sommer_1.jpg"
-    }
+    },
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Eksplosionen på Hotel Jørgensen", "en": "Wikipedia — Hotel Jørgensen explosion" },
+        "url": "https://da.wikipedia.org/wiki/Eksplosionen_p%C3%A5_Hotel_J%C3%B8rgensen"
+      }
+    ]
+  },
+  {
+    "id": "blekingegade-lejlighed-1988",
+    "categories": ["robbery", "terror"],
+    "year": 1988,
+    "coordinates": [55.6697, 12.5924],
+    "relatedEventIds": ["blekingegade-roeveri-1988"],
+    "title": {
+      "da": "Blekingegadebandens skjulested",
+      "en": "The Blekingegade Gang's hideout"
+    },
+    "description": {
+      "da": "Fra en tilsyneladende helt almindelig lejlighed på Blekingegade 2 på Amager opererede en gruppe politiske aktivister i dybeste hemmelighed i over et årti. Gruppen, der kaldte sig Kommunistisk Arbejdskreds, begik en række væbnede røverier mod banker og posthuse for at finansiere palæstinensiske guerillabevægelser — herunder PFLP. Lejligheden fungerede som base for planlægning og opbevaring af udstyr.",
+      "en": "From an outwardly ordinary apartment at Blekingegade 2 on Amager, a group of political activists operated in deep secrecy for over a decade. The group, calling themselves the Communist Working Circle, committed a series of armed robberies against banks and post offices to fund Palestinian guerrilla movements — including the PFLP. The apartment served as a base for planning and storing equipment."
+    },
+    "source": "Blekingegadebanden — Jakob Kierkegaard (dokumentarfilm, 2009)",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/15/Blekingegade_01.jpg",
+    "imageAttribution": {
+      "author": "Ukendt ophavsmand",
+      "license": "CC BY-SA 4.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Blekingegade_01.jpg"
+    },
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Blekingegadebanden", "en": "Wikipedia — Blekingegade Gang" },
+        "url": "https://da.wikipedia.org/wiki/Blekingegadebanden"
+      },
+      {
+        "title": { "da": "Dokumentarfilm — Blekingegadebanden (2009)", "en": "Documentary — The Blekingegade Gang (2009)" },
+        "url": "https://www.dr.dk/drtv/serie/blekingegadebanden_57842"
+      }
+    ]
   },
   {
     "id": "blekingegade-roeveri-1988",
@@ -169,6 +227,16 @@
       "author": "Ukendt ophavsmand",
       "license": "CC BY-SA 3.0",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:N%C3%B8rre_Voldgade.jpg"
-    }
+    },
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Blekingegadebanden", "en": "Wikipedia — Blekingegade Gang" },
+        "url": "https://da.wikipedia.org/wiki/Blekingegadebanden"
+      },
+      {
+        "title": { "da": "Dokumentarfilm — Blekingegadebanden (2009)", "en": "Documentary — The Blekingegade Gang (2009)" },
+        "url": "https://www.dr.dk/drtv/serie/blekingegadebanden_57842"
+      }
+    ]
   }
 ]
