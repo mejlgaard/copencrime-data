@@ -85,6 +85,42 @@
     }
   },
   {
+    "id": "hotel-jorgensen-bombe-2010",
+    "categories": ["terror"],
+    "year": 2010,
+    "coordinates": [55.6837, 12.5683],
+    "relatedEventIds": ["orstedsparken-anholdelse-2010"],
+    "title": {
+      "da": "Bombeekslosionen på Hotel Jørgensen",
+      "en": "The bomb explosion at Hotel Jørgensen"
+    },
+    "description": {
+      "da": "Den 10. september 2010 kl. 13:23 eksploderede en hjemmelavet bombe i et toilet på Hotel Jørgensen, Rømersgade 11 i København. Den 24-årige tjetjensk-belgiske mand Lors Doukaiev var indlogeret på hotellet under falsk navn og var i gang med at samle en TATP-bombe med stålkugler — designet som en brevbombe rettet mod avisen Jyllands-Posten i Aarhus, der i 2005 havde trykt Muhammed-tegningerne. Bomben eksploderede utilsigtet under sammensætningen. Kun Doukaiev selv blev såret. En ladet pistol blev fundet på hans værelse.",
+      "en": "On 10 September 2010 at 13:23, a homemade bomb exploded in a toilet at Hotel Jørgensen, Rømersgade 11 in Copenhagen. The 24-year-old Chechen-Belgian man Lors Doukaiev was staying at the hotel under a false name and was assembling a TATP bomb packed with steel ball bearings — designed as a letter bomb targeting the newspaper Jyllands-Posten in Aarhus, which had published the Muhammad cartoons in 2005. The bomb detonated accidentally during assembly. Only Doukaiev himself was injured. A loaded pistol was found in his room."
+    },
+    "source": "Wikipedia — Eksplosionen på Hotel Jørgensen",
+    "imageURL": null,
+    "imageAttribution": null
+  },
+  {
+    "id": "orstedsparken-anholdelse-2010",
+    "categories": ["terror"],
+    "year": 2010,
+    "coordinates": [55.6851, 12.5693],
+    "relatedEventIds": ["hotel-jorgensen-bombe-2010"],
+    "title": {
+      "da": "Lors Doukaiev anholdt i Ørstedsparken",
+      "en": "Lors Doukaiev arrested in Ørstedsparken"
+    },
+    "description": {
+      "da": "Efter at bomben utilsigtet eksploderede på hans hotelværelse flygtede Lors Doukaiev ind i den nærliggende Ørstedsparken. Kl. 15:38 — godt to timer efter eksplosionen — blev han anholdt af politiet i parken. Doukaiev havde mistet et ben tidligere i livet og var i pressen kendt som 'den etbenede terrorist'. Han blev i 2011 idømt 12 års fængsel for forsøg på terrorisme og udleveret til Belgien i 2013. Hotel Jørgensen lukkede i 2020.",
+      "en": "After the bomb accidentally exploded in his hotel room, Lors Doukaiev fled into the nearby Ørstedsparken. At 15:38 — just over two hours after the explosion — he was arrested by police in the park. Doukaiev had previously lost a leg and was known in the press as 'the one-legged terrorist'. In 2011 he was sentenced to 12 years in prison for attempted terrorism and was extradited to Belgium in 2013. Hotel Jørgensen closed in 2020."
+    },
+    "source": "Wikipedia — Eksplosionen på Hotel Jørgensen",
+    "imageURL": null,
+    "imageAttribution": null
+  },
+  {
     "id": "blekingegade-roeveri-1988",
     "categories": ["robbery", "terror"],
     "year": 1988,
