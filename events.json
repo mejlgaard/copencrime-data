@@ -190,6 +190,7 @@
     "categories": ["terror"],
     "year": 1985,
     "coordinates": [55.6820, 12.5739],
+    "relatedEventIds": ["synagogen-terrorangreb-2015"],
     "title": {
       "da": "Bombeangreb mod synagogen i Krystalgade",
       "en": "Bombing of the synagogue in Krystalgade"
@@ -433,6 +434,101 @@
       {
         "title": { "da": "DR: Overblik — forstå sagen om trippeldrabet", "en": "DR: Overview — understanding the triple murder case" },
         "url": "https://www.dr.dk/nyheder/indland/overblik-forstaa-sagen-om-trippeldrabet-paa-frederiksberg"
+      }
+    ]
+  },
+  {
+    "id": "krudttoenden-terrorangreb-2015",
+    "categories": ["terror"],
+    "year": 2015,
+    "coordinates": [55.7052, 12.5751],
+    "relatedEventIds": ["synagogen-terrorangreb-2015"],
+    "title": {
+      "da": "Terrorangrebet på Krudttønden",
+      "en": "The terrorist attack at Krudttønden"
+    },
+    "description": {
+      "da": "Den 14. februar 2015 kl. 15:31 åbnede den 22-årige Omar Abdel Hamid El-Hussein ild mod kulturhuset Krudttønden, Serridslevvej 2 på Østerbro, hvor debatmødet »Kunst, blasfemi og ytringsfrihed« var i gang med den svenske tegner Lars Vilks som særlig gæst. El-Hussein brugte et M95-gevær stjålet fra Hjemmeværnet. Filmfotografen Finn Nørgaard (55 år) blev dræbt, da han forsøgte at stoppe gerningsmanden. Fire politibetjente blev såret. El-Hussein flygtede fra stedet og gik tre timer senere til angreb på Jødernes synagoge i Krystalgade — og blev til sidst skudt og dræbt af politiet på Svanevej 1 i Nordvest kl. 04:50 den 15. februar. El-Hussein var en dansk-palæstinenser med kriminelt baggrund og var ifølge PET inspireret af IS.",
+      "en": "On 14 February 2015 at 15:31, 22-year-old Omar Abdel Hamid El-Hussein opened fire at the cultural centre Krudttønden, Serridslevvej 2 in Østerbro, where the debate event 'Art, Blasphemy and Freedom of Expression' was taking place with Swedish cartoonist Lars Vilks as a special guest. El-Hussein used an M95 rifle stolen from the Home Guard. Film director Finn Nørgaard (55) was killed as he tried to stop the attacker. Four police officers were wounded. El-Hussein fled the scene and three hours later attacked the Jewish synagogue in Krystalgade — before finally being shot and killed by police at Svanevej 1 in Nordvest at 04:50 on 15 February. El-Hussein was a Danish-Palestinian with a criminal background and was, according to PET, inspired by ISIS."
+    },
+    "source": "Wikipedia — Terrorangrebene i København 2015",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/90/Krudtt%C3%B8nden_03.jpg",
+    "imageAttribution": {
+      "author": "Leif Jørgensen",
+      "license": "CC BY-SA 4.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Krudtt%C3%B8nden_03.jpg"
+    },
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Terrorangrebene i København 2015", "en": "Wikipedia — 2015 Copenhagen attacks" },
+        "url": "https://da.wikipedia.org/wiki/Terrorangrebene_i_K%C3%B8benhavn_2015"
+      },
+      {
+        "title": { "da": "Lex — Terrorangrebet på Krudttønden og synagogen", "en": "Lex — The Krudttønden and synagogue attack" },
+        "url": "https://lex.dk/terrorangrebet_p%C3%A5_Krudtt%C3%B8nden_og_synagogen"
+      }
+    ]
+  },
+  {
+    "id": "synagogen-terrorangreb-2015",
+    "categories": ["terror"],
+    "year": 2015,
+    "coordinates": [55.6813, 12.5731],
+    "relatedEventIds": ["krudttoenden-terrorangreb-2015", "synagoge-bombning-1985"],
+    "title": {
+      "da": "Terrorangrebet på synagogen i Krystalgade",
+      "en": "The terrorist attack on the synagogue in Krystalgade"
+    },
+    "description": {
+      "da": "Natten til den 15. februar 2015 kl. 00:50 — knap ti timer efter angrebet på Krudttønden — åbnede Omar El-Hussein ild mod Den Mosaiske Troessamfunds synagoge i Krystalgade 12, mens en bat mitzvah-fejring stod på indendørs. Dan Uzan (37 år), der stod vagt ved indgangen, blev skudt og dræbt. To politibetjente blev såret. El-Hussein flygtede og gemte sig i en lejlighed på Nørrebro. Ved 04:50-tiden opdagede politiet ham på Svanevej 1 — han åbnede ild og blev nedskudt på stedet. Synagogen i Krystalgade havde allerede 30 år tidligere — i 1985 — været mål for et palæstinensisk bombeangreb.",
+      "en": "In the early hours of 15 February 2015 at 00:50 — just under ten hours after the Krudttønden attack — Omar El-Hussein opened fire on the Great Synagogue in Krystalgade 12, while a bat mitzvah celebration was taking place inside. Dan Uzan (37), standing guard at the entrance, was shot and killed. Two police officers were wounded. El-Hussein fled and hid in an apartment in Nørrebro. At around 04:50, police located him at Svanevej 1 — he opened fire and was shot and killed on the spot. The synagogue in Krystalgade had already been targeted 30 years earlier — in 1985 — in a Palestinian bomb attack."
+    },
+    "source": "Wikipedia — Terrorangrebene i København 2015",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Great_Synagogue_-_Copenhagen_March_2015.jpg",
+    "imageAttribution": {
+      "author": "Martin Lindner",
+      "license": "CC BY-SA 3.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Great_Synagogue_-_Copenhagen_March_2015.jpg"
+    },
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Terrorangrebene i København 2015", "en": "Wikipedia — 2015 Copenhagen attacks" },
+        "url": "https://da.wikipedia.org/wiki/Terrorangrebene_i_K%C3%B8benhavn_2015"
+      },
+      {
+        "title": { "da": "Lex — Terrorangrebet på Krudttønden og synagogen", "en": "Lex — The Krudttønden and synagogue attack" },
+        "url": "https://lex.dk/terrorangrebet_p%C3%A5_Krudtt%C3%B8nden_og_synagogen"
+      }
+    ]
+  },
+  {
+    "id": "uc3-nautilus-kim-wall-2017",
+    "categories": ["murder"],
+    "year": 2017,
+    "coordinates": [55.7010, 12.6317],
+    "title": {
+      "da": "Ubådssagen — Kim Wall og UC3 Nautilus",
+      "en": "The Submarine Case — Kim Wall and UC3 Nautilus"
+    },
+    "description": {
+      "da": "Den 10. august 2017 kl. ca. 19:00 sejlede den svenske journalist Kim Wall (30 år) ud fra Refshaleøen om bord på den privatbyggede ubåd UC3 Nautilus med dens konstruktør og ejer, raketingeniøren Peter Madsen. Hun skulle lave et interview med ham. Ubåden vendte aldrig tilbage. Tidligt den 11. august sank Nautilus, og Madsen blev reddet fra havet — han forklarede, at Kim Wall var sat i land om natten. Den 23. august fandt en cyklist hendes torso — uden hoved, arme og ben — flydende i Køge Bugt. Hoved og ben blev fundet den 7. oktober, en arm den 29. november. Under retssagen i 2018 ændrede Madsen sin forklaring gentagne gange. Den 25. april 2018 idømte Københavns Byret ham livsvarigt fængsel for mord, seksuel vold af særligt grov karakter og usømmelig omgang med lig. Dommen blev stadfæstet af Østre Landsret den 26. september 2018. Ubådssagen vakte international opmærksomhed og blev fulgt i medier verden over.",
+      "en": "On 10 August 2017 at around 19:00, Swedish journalist Kim Wall (30) sailed from Refshaleøen aboard the privately-built submarine UC3 Nautilus with its constructor and owner, rocket engineer Peter Madsen. She was there to interview him. The submarine never returned. Early on 11 August, Nautilus sank and Madsen was rescued from the sea — he claimed Kim Wall had been dropped ashore during the night. On 23 August, a cyclist found her torso — without head, arms or legs — floating in Køge Bay. Her head and legs were found on 7 October, an arm on 29 November. During the 2018 trial, Madsen changed his account repeatedly. On 25 April 2018, Copenhagen City Court sentenced him to life imprisonment for murder, sexual assault of a particularly aggravated nature, and improper handling of a corpse. The sentence was upheld by the Eastern High Court on 26 September 2018. The submarine case attracted international attention and was followed by media worldwide."
+    },
+    "source": "Wikipedia — Ubådssagen",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/68/Submarine_UC3Nautilus_seatrials_2008.jpg",
+    "imageAttribution": {
+      "author": "Frumperino",
+      "license": "CC BY-SA 3.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Submarine_UC3Nautilus_seatrials_2008.jpg"
+    },
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Ubådssagen", "en": "Wikipedia — Murder of Kim Wall" },
+        "url": "https://da.wikipedia.org/wiki/Ubådssagen"
+      },
+      {
+        "title": { "da": "DR: Overblik over ubådssagen", "en": "DR: Overview of the submarine case" },
+        "url": "https://www.dr.dk/nyheder/indland/overblik-det-ved-vi-om-den-sunkne-ubaad-og-den-savnede-svenske-kvinde"
       }
     ]
   },
