@@ -28,5 +28,11 @@
     "title": { "da": "Historisk hændelse", "en": "Historical event" },
     "color": "#2471A3",
     "icon": "building.columns.fill"
+  },
+  {
+    "id": "gangs",
+    "title": { "da": "Bander", "en": "Gangs" },
+    "color": "#566573",
+    "icon": "person.3.fill"
   }
 ]

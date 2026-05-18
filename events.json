@@ -217,10 +217,43 @@
     ]
   },
   {
+    "id": "agerlandsvej-makrellen-1984",
+    "categories": ["murder", "gangs"],
+    "year": 1984,
+    "coordinates": [55.6660, 12.6115],
+    "relatedEventIds": ["titangade-hells-angels-1996"],
+    "title": {
+      "da": "Likvideringen af Makrellen på Agerlandsvej",
+      "en": "The liquidation of Makrellen on Agerlandsvej"
+    },
+    "description": {
+      "da": "Den 25. maj 1984 sad Henning Norbert Knudsen — kaldet Makrellen — præsident for rockerbanden Bullshit, i sin bil foran hjemmet på Agerlandsvej 19 på Amager. Jørn »Jønke« Nielsen fra Hells Angels havde skjult sig i en nærliggende bil. Da Makrellen satte sig ind, åbnede Jønke ild gennem forruden med en Stengun maskinpistol — derefter en ny salve i ryggen. Makrellen hang halvt ud af bildøren, ramt af 16 skud i hals, bryst og ryg. Hans 22-årige hustru Pia Soldthved Larsen nåede at springe ud og komme i sikkerhed. Jønke flygtede til Frankrig og siden Canada, men vendte hjem den 3. marts 1988 og blev i 1989 ved landsretten idømt 16 års fængsel. Fire Hells Angels-medlemmer blev sigtet som medvirkende — herunder den 28-årige Christian Sass Middelboe, der ved et nævningeting den 22. marts 1985 fik syv år for medvirken. Ironisk nok var det den samme Middelboe, der 12 år senere som national H.A.-formand blev såret under raketangrebet på Titangade. Mordet var et afgørende punkt i den blodige konflikt mellem Bullshit og Hells Angels, der fra 1980 til 1988 kostede et dusin rokkere livet — de fleste fra Bullshit.",
+      "en": "On 25 May 1984, Henning Norbert Knudsen — known as Makrellen (The Mackerel) — president of the Bullshit motorcycle gang, was sitting in his car outside his home at Agerlandsvej 19 on Amager. Jørn 'Jønke' Nielsen of the Hells Angels had concealed himself in a nearby car. As Makrellen got in, Jønke opened fire through the windshield with a Stengun submachine gun — then a second burst into his back. Makrellen hung half out of the car door, struck by 16 shots to the neck, chest and back. His 22-year-old wife Pia Soldthved Larsen managed to jump clear to safety. Jønke fled to France and then Canada, but returned on 3 March 1988 and was sentenced in 1989 to 16 years imprisonment by the Court of Appeal. Four Hells Angels members were charged as accomplices — including 28-year-old Christian Sass Middelboe, who on 22 March 1985 received seven years for complicity. Ironically, that same Middelboe — by then the national H.A. president — would be among the wounded in the rocket attack on Titangade twelve years later. The murder was a defining moment in the bloody conflict between Bullshit and Hells Angels, which between 1980 and 1988 claimed around a dozen lives — most of them from Bullshit."
+    },
+    "source": "Wikipedia — Jønke · Ugeavisen Amager — Bakspejlet: Rockermordet på Agerlandsvej",
+    "imageURL": null,
+    "imageAttribution": null,
+    "links": [
+      {
+        "title": { "da": "Wikipedia — Jørn »Jønke« Nielsen", "en": "Wikipedia — Jørn 'Jønke' Nielsen" },
+        "url": "https://da.wikipedia.org/wiki/J%C3%B8nke"
+      },
+      {
+        "title": { "da": "Ugeavisen: Bakspejlet — Rockermordet på Agerlandsvej", "en": "Ugeavisen: Lookback — The biker murder on Agerlandsvej" },
+        "url": "https://ugeavisen.dk/amager/artikel/bakspejlet-rockermordet-p%C3%A5-agerlandsvej"
+      },
+      {
+        "title": { "da": "DR Lyd: Mordet på Makrel del 1 — Broderskab", "en": "DR Audio: The murder of Makrel part 1 — Brotherhood" },
+        "url": "https://www.dr.dk/lyd/special-radio/bakspejl/bakspejl-2021/mordet-paa-makrel-del-1-broderskab-11162111012"
+      }
+    ]
+  },
+  {
     "id": "titangade-hells-angels-1996",
-    "categories": ["terror"],
+    "categories": ["terror", "gangs"],
     "year": 1996,
     "coordinates": [55.7038, 12.5530],
+    "relatedEventIds": ["agerlandsvej-makrellen-1984"],
     "title": {
       "da": "Raketten mod Hells Angels' Titangade-klubhus",
       "en": "The rocket attack on the Hells Angels' Titangade clubhouse"
